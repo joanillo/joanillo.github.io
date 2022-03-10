@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>Transpirenaica en BTT Etapa 5 Bagà-Noves de Segre</name>
+		<desc>BTT*Bagà*transpirenaica-en-btt-etapa-5-baga-noves-de-segre.gpx*2019-07-30*66.3 Km*00:00:20 *19:21:01*2478 m*1781 m*580m*1916m*vPv4JZKn8R6</desc>
+	</metadata>
+	<wpt lat="42.232303" lon="1.566009">
+		<name>Tuixent</name>
+	</wpt>
+	<wpt lat="42.237734" lon="1.497959">
+		<name>Montargull</name>
+	</wpt>
+	<wpt lat="42.268150" lon="1.378148">
+		<name>Castellar de Tost</name>
+	</wpt>
+	<wpt lat="42.264466" lon="1.807200">
+		<name>El Puig</name>
+	</wpt>
+	<wpt lat="42.265550" lon="1.782830">
+		<name>Murcurols</name>
+	</wpt>
+	<wpt lat="42.260183" lon="1.765939">
+		<name>Coll de la Bena (1487m)</name>
+	</wpt>
+	<wpt lat="42.264596" lon="1.741309">
+		<name>Coll de Bauma (1573m)</name>
+	</wpt>
+	<wpt lat="42.263166" lon="1.690513">
+		<name>Coll de les Bassotes (1872m)</name>
+	</wpt>
+	<wpt lat="42.260565" lon="1.685628">
+		<name>El Collell (1843m)</name>
+	</wpt>
+	<wpt lat="42.258419" lon="1.617504">
+		<name>Josa de Cadí</name>
+	</wpt>
+	<wpt lat="42.252392" lon="1.408446">
+		<name>Coll d'Arnat (1273m)</name>
+	</wpt>
+	<trk>
+		<name>Transpirenaica en BTT Etapa 5 Bagà-Noves de Segre</name>
+		<desc>btt*transpirenaica-en-btt-etapa-5-baga-noves-de-segre.gpx*2019-07-30*66.3 Km*00:00:20 *19:21:01*2478 m*1781 m*580m*1916m*vPv4JZKn8R6</desc>
+		<number>1</number>
+		<trkseg>
+		</trkseg>
+	</trk>
+</gpx>

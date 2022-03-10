@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>ToDo - Coll de Pal-Pobla de Lillet</name>
+		<desc>BTT*Berguedà*todo-coll_de_pal-pobla_de_lillet.gpx*2021-01-12*15.8 Km*00:22:00*00:22:00*357 m*65 m*854m*1967m*</desc>
+	</metadata>
+	<trk>
+		<name>ToDo - Coll de Pal-Pobla de Lillet</name>
+		<number>1</number>
+		<trkseg>
+			<trkpt lat="42.29375" lon="1.905472222222222"></trkpt>
+			<trkpt lat="42.293" lon="1.907361111111111"></trkpt>
+			<trkpt lat="42.293" lon="1.9081944444444443"></trkpt>
+			<trkpt lat="42.29363888888889" lon="1.9102777777777777"></trkpt>
+			<trkpt lat="42.29366666666667" lon="1.9123055555555555"></trkpt>
+			<trkpt lat="42.29388888888889" lon="1.9153055555555554"></trkpt>
+			<trkpt lat="42.29505555555555" lon="1.9188888888888886"></trkpt>
+			<trkpt lat="42.29527777777778" lon="1.9214444444444443"></trkpt>
+			<trkpt lat="42.29577777777777" lon="1.9219999999999997"></trkpt>
+			<trkpt lat="42.29561111111111" lon="1.9224722222222221"></trkpt>
+			<trkpt lat="42.294583333333335" lon="1.9224722222222221"></trkpt>
+			<trkpt lat="42.29394444444444" lon="1.9231666666666667"></trkpt>
+			<trkpt lat="42.29244444444444" lon="1.9237222222222221"></trkpt>
+			<trkpt lat="42.290194444444445" lon="1.9246666666666665"></trkpt>
+			<trkpt lat="42.28975" lon="1.924611111111111"></trkpt>
+			<trkpt lat="42.28941666666667" lon="1.9251388888888887"></trkpt>
+			<trkpt lat="42.28811111111111" lon="1.9293888888888886"></trkpt>
+			<trkpt lat="42.28688888888888" lon="1.9310277777777776"></trkpt>
+			<trkpt lat="42.28586111111111" lon="1.9315"></trkpt>
+			<trkpt lat="42.28530555555556" lon="1.9335833333333334"></trkpt>
+			<trkpt lat="42.285333333333334" lon="1.9348611111111111"></trkpt>
+			<trkpt lat="42.28458333333333" lon="1.9375277777777777"></trkpt>
+			<trkpt lat="42.284416666666665" lon="1.9392777777777779"></trkpt>
+			<trkpt lat="42.28372222222222" lon="1.939361111111111"></trkpt>
+			<trkpt lat="42.28313888888889" lon="1.9391666666666667"></trkpt>
+			<trkpt lat="42.282444444444444" lon="1.9395555555555557"></trkpt>
+			<trkpt lat="42.28111111111111" lon="1.93975"></trkpt>
+			<trkpt lat="42.28122222222222" lon="1.9425000000000001"></trkpt>
+			<trkpt lat="42.28030555555556" lon="1.9452777777777779"></trkpt>
+			<trkpt lat="42.279583333333335" lon="1.9486388888888888"></trkpt>
+			<trkpt lat="42.278416666666665" lon="1.9494722222222223"></trkpt>
+			<trkpt lat="42.277722222222216" lon="1.9482777777777778"></trkpt>
+			<trkpt lat="42.27730555555556" lon="1.9479722222222222"></trkpt>
+			<trkpt lat="42.27591666666667" lon="1.9507777777777777"></trkpt>
+			<trkpt lat="42.27697222222223" lon="1.9524722222222222"></trkpt>
+			<trkpt lat="42.27791666666667" lon="1.9545833333333333"></trkpt>
+			<trkpt lat="42.279361111111115" lon="1.9538055555555554"></trkpt>
+			<trkpt lat="42.279916666666665" lon="1.9568055555555555"></trkpt>
+			<trkpt lat="42.27975" lon="1.9611666666666665"></trkpt>
+			<trkpt lat="42.279361111111115" lon="1.9620555555555557"></trkpt>
+			<trkpt lat="42.278777777777776" lon="1.9626666666666666"></trkpt>
+			<trkpt lat="42.278194444444445" lon="1.9634722222222223"></trkpt>
+			<trkpt lat="42.27811111111111" lon="1.9645"></trkpt>
+			<trkpt lat="42.27855555555555" lon="1.965472222222222"></trkpt>
+			<trkpt lat="42.27730555555556" lon="1.965611111111111"></trkpt>
+			<trkpt lat="42.276888888888884" lon="1.9666944444444445"></trkpt>
+			<trkpt lat="42.27697222222223" lon="1.968416666666667"></trkpt>
+			<trkpt lat="42.277055555555556" lon="1.9690277777777778"></trkpt>
+			<trkpt lat="42.27741666666667" lon="1.9697222222222224"></trkpt>
+			<trkpt lat="42.27741666666667" lon="1.9705833333333334"></trkpt>
+			<trkpt lat="42.275777777777776" lon="1.976027777777778"></trkpt>
+			<trkpt lat="42.27602777777778" lon="1.977138888888889"></trkpt>
+			<trkpt lat="42.27633333333333" lon="1.978388888888889"></trkpt>
+			<trkpt lat="42.27447222222222" lon="1.9817222222222222"></trkpt>
+			<trkpt lat="42.27375" lon="1.9854722222222223"></trkpt>
+			<trkpt lat="42.27169444444445" lon="1.9872222222222222"></trkpt>
+			<trkpt lat="42.269666666666666" lon="1.9878611111111113"></trkpt>
+			<trkpt lat="42.26891666666667" lon="1.986527777777778"></trkpt>
+			<trkpt lat="42.26763888888889" lon="1.9866666666666668"></trkpt>
+			<trkpt lat="42.26294444444444" lon="1.9831944444444445"></trkpt>
+			<trkpt lat="42.258694444444444" lon="1.9767500000000002"></trkpt>
+			<trkpt lat="42.256166666666665" lon="1.9760555555555557"></trkpt>
+			<trkpt lat="42.25438888888889" lon="1.9764444444444444"></trkpt>
+			<trkpt lat="42.25208333333334" lon="1.9796666666666667"></trkpt>
+			<trkpt lat="42.24863888888889" lon="1.9770555555555558"></trkpt>
+			<trkpt lat="42.24761111111111" lon="1.9767500000000002"></trkpt>
+			<trkpt lat="42.245333333333335" lon="1.979638888888889"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
