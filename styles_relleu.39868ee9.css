@@ -1,0 +1,44 @@
+div#container
+{
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  width: 350px;
+  height: 200px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #fff;
+}
+
+/* AXES */
+/* ticks */
+.axis line{
+stroke: #706f6f;
+stroke-width: 1;
+shape-rendering: crispEdges;
+}
+
+/* axis contour */
+.axis path {
+stroke: #706f6f;
+stroke-width: 1;
+shape-rendering: crispEdges;
+}
+
+/* axis text */
+.axis text {
+fill: #2b2929;
+font-family: Georgia;
+font-size: 120%;
+}
+
+/* LINE CHART */
+path.line-0 {
+  fill: none;
+  stroke: #0000ff;
+  stroke-width: 1;
+}
+
+
+
+/*# sourceMappingURL=styles_relleu.39868ee9.css.map */

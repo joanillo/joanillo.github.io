@@ -88758,502 +88758,882 @@ function llista_rutes() {
     "id": "bergueda",
     "rutes": [{
       "ruta": "Malanyeu-Grau del Griell-Foradada",
-      "fitxer": "malanyeu-grau_del_griell-foradada.gpx"
+      "fitxer": "malanyeu-grau_del_griell-foradada.gpx",
+      "desc": "senderisme*Berguedà*malanyeu-grau_del_griell-foradada.gpx*2021-07-11*4.0 Km*01:21:21*02:01:46*538 m*426 m*1010m*1321m*"
     }, {
       "ruta": "Riutort - Pobla de Lillet",
-      "fitxer": "riutort_pobla_de_lillet.gpx"
-    }, {
-      "ruta": "ToDo-Montclar",
-      "fitxer": "todo-montclar.gpx"
+      "fitxer": "riutort_pobla_de_lillet.gpx",
+      "desc": "BTT*Berguedà*riutort_pobla_de_lillet.gpx*2020-01-11*14.4 Km*00:04:34 *00:04:34*734 m*652 m*781m*1417m*vmqX1GGWYov"
     }, {
       "ruta": "Carretera del Jou",
-      "fitxer": "carretera_del_jou.gpx"
+      "fitxer": "carretera_del_jou.gpx",
+      "desc": "BTT*Berguedà*carretera_del_jou.gpx*2021-08-23*11.1 Km*01:28:24*02:00:12*332 m*283 m*881m*1043m*"
     }, {
       "ruta": "ToDo-Sant Jaume de Frontanyà - Gombrèn v2",
-      "fitxer": "todo-gombren-sant-jaume-de-frontanya-gombren_v2.gpx"
+      "fitxer": "todo-gombren-sant-jaume-de-frontanya-gombren_v2.gpx",
+      "desc": "BTT*Berguedà*todo-gombren-sant-jaume-de-frontanya-gombren_v2.gpx*2020-12-18*45.5 Km*01:30:30 *01:30:30*1612 m*981 m*777m*1385m*"
     }, {
-      "ruta": "ToDo - Volta a la Serra d'Ensija",
-      "fitxer": "todo-volta_serra_ensija.gpx"
+      "ruta": "ToDo-Volta a la Serra d'Ensija",
+      "fitxer": "todo-volta_serra_ensija.gpx",
+      "desc": "BTT*Berguedà*todo-volta_serra_ensija.gpx*2021-01-12*27.8 Km*00:43:00*00:43:00*1572 m*1032 m*1144m*1830m*"
+    }, {
+      "ruta": "ToDo-Campdevànol-Les Rovires",
+      "fitxer": "todo-campdevanol-les_rovires.gpx",
+      "desc": "BTT*Berguedà*todo-camprodon-les_rovires.gpx*2021-08-02*1.0 Km*01:00:00*01:00:00*100 m*100 m*100m*100m*"
     }, {
       "ruta": "ToDo-Sant Jaume de Frontanyà - Gombrèn v1",
-      "fitxer": "todo-gombren-sant-jaume-de-frontanya-gombren_v1.gpx"
+      "fitxer": "todo-gombren-sant-jaume-de-frontanya-gombren_v1.gpx",
+      "desc": "BTT*Berguedà*todo-gombren-sant-jaume-de-frontanya-gombren_v1.gpx*2020-12-18*45.5 Km*01:30:30 *01:30:30*1813 m*1094 m*777m*1377m*"
     }, {
-      "ruta": "ToDo - Volta als Rasos de Tubau",
-      "fitxer": "todo-volta_rasos_tubau.gpx"
+      "ruta": "ToDo-Volta als Rasos de Tubau",
+      "fitxer": "todo-volta_rasos_tubau.gpx",
+      "desc": "BTT*Berguedà*todo-todo-volta_rasos_tubau.gpx*2021-01-12*45.1 Km*01:23:00*01:23:00*1699 m*915 m*723m*1219m*"
     }, {
       "ruta": "La Sala-Sta Cecília de Riutort-Coll Cerqueda-Coll Portelletes",
-      "fitxer": "la_sala-sta_cecilia_riutort-coll_cerqueda-coll_portelletes.gpx"
+      "fitxer": "la_sala-sta_cecilia_riutort-coll_cerqueda-coll_portelletes.gpx",
+      "desc": "BTT*Berguedà*la_sala-sta_cecilia_riutort-coll_cerqueda-coll_portelletes.gpx*2020-07-02*17.2 Km*01:21:59 *02:10:15*809 m*668 m*793m*1299m*vZqNNRxKxGq"
     }, {
-      "ruta": "ToDo - Coll de Pal-Pobla de Lillet",
-      "fitxer": "todo-coll_de_pal-pobla_de_lillet.gpx"
+      "ruta": "ToDo-Coll de Pal-Pobla de Lillet",
+      "fitxer": "todo-coll_de_pal-pobla_de_lillet.gpx",
+      "desc": "BTT*Berguedà*todo-coll_de_pal-pobla_de_lillet.gpx*2021-01-12*15.8 Km*00:22:00*00:22:00*357 m*65 m*854m*1967m*"
     }, {
       "ruta": "Les Rovires de Baix 1",
-      "fitxer": "les_rovires_de_baix_1.gpx"
+      "fitxer": "les_rovires_de_baix_1.gpx",
+      "desc": "BTT*Berguedà*les_rovires_de_baix_1.gpx*2020-08-08*15.5 Km*02:55:10*02:55:10*710 m*536 m*732m*952m*vRO7dZ1pYy6"
     }, {
-      "ruta": "ToDo - Lluçanès Feréstec 2019 llarga",
-      "fitxer": "todo-llucanes-ferestec-2019-llarga.gpx"
+      "ruta": "ToDo-Lluçanès Feréstec 2019 llarga",
+      "fitxer": "todo-llucanes-ferestec-2019-llarga.gpx",
+      "desc": "BTT*Berguedà*todo-llucanes-ferestec-2019-llarga.gpx*2019-04-07*67.0 Km*04:18:32*05:45:45*1943 m*1678 m*444m*890m*"
     }, {
       "ruta": "Cercs - Peguera - Cercs",
-      "fitxer": "cercs-peguera.gpx"
+      "fitxer": "cercs-peguera.gpx",
+      "desc": "BTT*Berguedà*cercs-peguera.gpx*2013-07-13*37.9 Km*00:10:16 *06:24:24*1715 m*1423 m*635m*1830m*vdvmB4no4NO"
     }, {
-      "ruta": "ToDo - Ripoll-Les Rovires",
-      "fitxer": "todo-ripoll-les_rovires.gpx"
+      "ruta": "ToDo-Ripoll-Les Rovires",
+      "fitxer": "todo-ripoll-les_rovires.gpx",
+      "desc": "BTT*Berguedà*todo-ripoll-les_rovires.gpx*2021-08-02*1.0 Km*01:00:00*01:00:00*100 m*100 m*100m*100m*"
     }, {
       "ruta": "La Catllaràs 2018",
-      "fitxer": "la-catllaras-2018.gpx"
+      "fitxer": "la-catllaras-2018.gpx",
+      "desc": "BTT*Berguedà*la-catllaras-2018.gpx*2018-10-22*47.8 Km*00:22:42 *03:44:41*2213 m*1865 m*871m*1695m*vXOd3mjA54v"
     }, {
-      "ruta": "ToDo - Llacuna-Queralt-Sant Martí de Tous",
-      "fitxer": "todo-llacuna-queralt-st_marti_de_tous.gpx"
+      "ruta": "La Pobla de Lillet-Gombrèn-Castellar de n'Hug",
+      "fitxer": "la_pobla_de_lillet-gombren-castellar_de_nhug.gpx",
+      "desc": "BTT*Berguedà*la_pobla_de_lillet-gombren-castellar_de_nhug.gpx*2021-11-06*45.8 Km*03:48:20*04:14:34*1755 m*1362 m*836m*1415m"
     }, {
       "ruta": "Montclar-Montmajor-Cardona",
-      "fitxer": "montclar-montmajor-cardona.gpx"
+      "fitxer": "montclar-montmajor-cardona.gpx",
+      "desc": "BTT*Berguedà*montclar-montmajor-cardona.gpx*2021-08-29*50.8 Km*03:13:43*03:34:43*1355 m*1063 m*403m*820m*"
     }, {
-      "ruta": "ToDo - El Collet-Vallcebre-Coll de Pradell-Saldes-Riera Saldes",
-      "fitxer": "todo-el_collet-vallcebre-coll_de_pradell-saldes-riera_saldes.gpx"
+      "ruta": "ToDo-El Collet-Vallcebre-Coll de Pradell-Saldes-Riera Saldes",
+      "fitxer": "todo-el_collet-vallcebre-coll_de_pradell-saldes-riera_saldes.gpx",
+      "desc": "BTT*Berguedà*todo-el_collet-vallcebre-coll_de_pradell-saldes-riera_saldes.gpx*2021-01-12*40.1 Km*00:57:00*00:57:00*1972 m*1150 m*718m*1738m*"
     }, {
-      "ruta": "ToDo - st_maurici_la_quar-portella",
-      "fitxer": "todo-st_maurici_la_quar-portella.gpx"
+      "ruta": "Cavalls del Vent",
+      "fitxer": "cavalls_del_vent.gpx",
+      "desc": "senderisme*Berguedà*cavalls_del_vent.gpx*2004-08-15*78.9 Km*00:00:40*05:51:00*6709 m*5459 m*910m*2520m*"
+    }, {
+      "ruta": "Les Rovires de Baix 4",
+      "fitxer": "les_rovires_de_baix_4.gpx",
+      "desc": "BTT*Berguedà*les_rovires_de_baix_4.gpx*2021-10-10*25.4 Km*02:12:00*02:15:44*1067 m*831 m*731m*1099m*"
+    }, {
+      "ruta": "ToDo-Sant Maurici-La Quar-Portella",
+      "fitxer": "todo-st_maurici_la_quar-portella.gpx",
+      "desc": "BTT*Berguedà*todo-st_maurici_la_quar-portella.gpx*2020-12-08*43.5 Km*03:00:10*00:05:33*1378 m*1288 m*463m*1084m*"
     }, {
       "ruta": "Les Rovires-Borredà a peu",
-      "fitxer": "les_rovires-borreda-a_peu.gpx"
+      "fitxer": "les_rovires-borreda-a_peu.gpx",
+      "desc": "senderisme*Berguedà*les_rovires-borreda-a_peu.gpx*2021-04-03*4.0 Km*01:56:04*02:13:32*236 m*193 m*769 m*922 m*"
     }, {
-      "ruta": "ToDo - Bagà-Gréixer-Escriu-Pendís-Bellver",
-      "fitxer": "todo-baga-greixer-escriu-pendis-bellver.gpx"
+      "ruta": "ToDo-Bagà-Gréixer-Escriu-Pendís-Bellver",
+      "fitxer": "todo-baga-greixer-escriu-pendis-bellver.gpx",
+      "desc": "BTT*Berguedà*todo-baga-greixer-escriu-pendis-bellver.gpx*2021-01-12*24.1 Km*00:28:00*00:28:00*950 m*864 m*815m*1815m*"
     }, {
-      "ruta": "ToDo - Casserres-Montclar",
-      "fitxer": "todo-Casserres-Montclar.gpx"
+      "ruta": "ToDo-Casserres-Montclar",
+      "fitxer": "todo-Casserres-Montclar.gpx",
+      "desc": "BTT*Berguedà*todo-Casserres-Montclar.gpx*2020-12-18*23.8 Km*00:10:06*00:10:06*591 m*542 m*554m*773m*"
     }, {
-      "ruta": "ToDo-Baix_Berguedà",
-      "fitxer": "todo-baix_bergueda.gpx"
-    }, {
-      "ruta": "ToDo - Pobla de Lillet-Gombrèn-Castellar de n'Hug",
-      "fitxer": "todo-pobla_lillet-gombren-castellar_nhug.gpx"
+      "ruta": "ToDo-Baix Berguedà",
+      "fitxer": "todo-baix_bergueda.gpx",
+      "desc": "ciclisme*Berguedà*todo-baix_bergueda.gpx*2021-01-04*67.0 Km*00:44:40*00:45:00*1274 m*829 m*351m*888*"
     }, {
       "ruta": "Les Rovires de Baix 3",
-      "fitxer": "les_rovires_de_baix_3.gpx"
+      "fitxer": "les_rovires_de_baix_3.gpx",
+      "desc": "BTT*Berguedà*les_rovires_de_baix_3.gpx*2020-08-08*15.5 Km*02:56:00 *02:56:00*710 m*536 m*732m*952m*veqzDYKQj7O"
     }, {
       "ruta": "Les Rovires de Baix 2",
-      "fitxer": "les_rovires_de_baix_2.gpx"
+      "fitxer": "les_rovires_de_baix_2.gpx",
+      "desc": "BTT*Berguedà*les_rovires_de_baix_2.gpx*2020-03-08*15.4 Km*01:14:39 *01:36:36*764 m*606 m*674m*972m*vevW7ZW3pyv"
     }, {
-      "ruta": "ToDo - Coll de Pal-Gavarrós-Espelt",
-      "fitxer": "todo-coll_de_pal-gavarros-espelt.gpx"
+      "ruta": "ToDo-Coll de Pal-Gavarrós-Espelt",
+      "fitxer": "todo-coll_de_pal-gavarros-espelt.gpx",
+      "desc": "BTT*Berguedà*todo-coll_de_pal-gavarros-espelt.gpx*2021-01-12*11.4 Km*00:12:00*00:12:00*44 m*0 m*786m*1952m*"
     }, {
       "ruta": "Ripoll-Les Rovires de Baix",
-      "fitxer": "ripoll-les_rovires_de_baix.gpx"
+      "fitxer": "ripoll-les_rovires_de_baix.gpx",
+      "desc": "BTT*Berguedà*ripoll-les_rovires_de_baix.gpx*2020-06-26*26.0 Km*01:30:56 *01:49:12*783 m*541 m*665m*977m*vKv2R72o14v"
     }, {
-      "ruta": "ToDo-morral_de_montsent_el_banc",
-      "fitxer": "todo-morral_de_montsent_el_banc.gpx"
+      "ruta": "ToDo-Morral de Montsent (el Banc)",
+      "fitxer": "todo-morral_de_montsent_el_banc.gpx",
+      "desc": "BTT*Berguedà*todo-morral_de_montsent_el_banc.gpx*2020-12-08*22.9 Km*00:42:10*00:42:10*1020 m*643 m*484m*904m*"
+    }, {
+      "ruta": "Les Rovires de Baix 5",
+      "fitxer": "les_rovires_de_baix_5.gpx",
+      "desc": "BTT*Berguedà*les_rovires_de_baix_5.gpx*2022-03-06*37.8 Km*02:59:32*03:03:52*1488 m*1055 m*743m*1135m*"
     }, {
       "ruta": "Plantiu-Coll de Cerqueda-Erols-Sant Vicenç de Rus-La Pobla",
-      "fitxer": "el_plantiu-coll_cerqueda-erols-sant_vicenc_de_rus.gpx"
+      "fitxer": "el_plantiu-coll_cerqueda-erols-sant_vicenc_de_rus.gpx",
+      "desc": "BTT*Berguedà*el_plantiu-coll_cerqueda-erols-sant_vicenc_de_rus.gpx*2021-08-24*20.8 Km*01:43:52*01:43:52*881 m*703 m*815m*1472m*"
     }, {
-      "ruta": "ToDo - Camprodon-Les Rovires",
-      "fitxer": "todo-camprodon-les_rovires.gpx"
+      "ruta": "ToDo-Bagà-Gisclareny-Coll de Bauma-El Collell-Riera de Saldes",
+      "fitxer": "todo-baga-gisclareny-coll_bauma-el_collell-riera_saldes.gpx",
+      "desc": "BTT*Berguedà*todo-baga-gisclareny-coll_bauma-el_collell-riera_saldes.gpx*2021-01-12*46.1 Km*01:12:00*01:12:00*2511 m*1240 m*789m*1924m*"
     }, {
-      "ruta": "ToDo - Bagà-Gisclareny-Coll de Bauma-El Collell-Riera de Saldes",
-      "fitxer": "todo-baga-gisclareny-coll_bauma-el_collell-riera_saldes.gpx"
-    }, {
-      "ruta": "ToDo - Coll de Pradell - Volta als Cingles de Costafreda",
-      "fitxer": "todo-coll_pradell-volta_cingles_costafreda.gpx"
+      "ruta": "ToDo-Coll de Pradell - Volta als Cingles de Costafreda",
+      "fitxer": "todo-coll_pradell-volta_cingles_costafreda.gpx",
+      "desc": "BTT*Berguedà*todo-coll_pradell-volta_cingles_costafreda.gpx*2021-01-12*16.0 Km*00:17:00*00:17:00*754 m*551 m*1130m*1735m*"
     }, {
       "ruta": "Sant Quirze de Besora-Riera de Merlès",
-      "fitxer": "st_quirze_besora-riera_merles.gpx"
+      "fitxer": "st_quirze_besora-riera_merles.gpx",
+      "desc": "BTT*Berguedà*st_quirze_besora-riera_merles.gpx*2021-06-26*27.6 Km*02:47:45*03:39:20*1018 m*779 m*565m*890m*"
     }]
   }, {
     "zona": "Bagà",
     "id": "baga",
     "rutes": [{
       "ruta": "Coll de Pal-Comafloriu-Xalet Coll de Pal",
-      "fitxer": "coll_pal-comafloriu-xalet_coll_de_pal.gpx"
+      "fitxer": "coll_pal-comafloriu-xalet_coll_de_pal.gpx",
+      "desc": "senderisme*Bagà*coll_pal-comafloriu-xalet_coll_de_pal.gpx*2021-01-02*4.0 Km*01:44:04*01:54:20*217 m*188 m*1926m*2205m*"
     }, {
       "ruta": "ToDo-Bagà-Rebost-Gavarrós-Castellar de n'Hug-Gombrèn-Campdevànol",
-      "fitxer": "todo-baga-rebost-gavarros-castellar_de_nhug-gombren-campdevanol.gpx"
+      "fitxer": "todo-baga-rebost-gavarros-castellar_de_nhug-gombren-campdevanol.gpx",
+      "desc": "BTT*Bagà*todo-baga-rebost-gavarros-castellar_de_nhug-gombren-campdevanol.gpx*2021-08-31*51.1 Km*01:03:20*01:03:20*1813 m*1470 m*731m*1722m*"
     }, {
       "ruta": "Bac de Diví-Paller",
-      "fitxer": "bac_de_divi-paller.gpx"
+      "fitxer": "bac_de_divi-paller.gpx",
+      "desc": "senderisme*Bagà*bac_de_divi-paller.gpx*2021-05-22*5.0 Km*02:04:00*02:29:00*601 m*534 m*922m*1393m*"
     }, {
       "ruta": "Bagà-Coll de Turbians-Coll de la Bena-St Martí del Puig",
-      "fitxer": "baga-coll_turbians-coll_bena-st_marti_puig.gpx"
+      "fitxer": "baga-coll_turbians-coll_bena-st_marti_puig.gpx",
+      "desc": "BTT*Bagà*baga-coll_turbians-coll_bena-st_marti_puig.gpx*2020-06-20*25.4 Km*02:07:36*02:36:46*1107 m*934 m*772m*1458m*vXvLYz55r7O"
     }, {
       "ruta": "Via Nicolau",
-      "fitxer": "via_nicolau.gpx"
+      "fitxer": "via_nicolau.gpx",
+      "desc": "BTT*Bagà*via_nicolau.gpx*2020-07-10*4.5 Km*00:29:36 *00:50:28*290 m*191 m*771m*934m*"
     }, {
       "ruta": "Transpirenaica en BTT Etapa 5 Bagà-Noves de Segre",
-      "fitxer": "transpirenaica-en-btt-etapa-5-baga-noves-de-segre.gpx"
+      "fitxer": "transpirenaica-en-btt-etapa-5-baga-noves-de-segre.gpx",
+      "desc": "BTT*Bagà*transpirenaica-en-btt-etapa-5-baga-noves-de-segre.gpx*2019-07-30*66.3 Km*00:00:20 *19:21:01*2478 m*1781 m*580m*1916m*vPv4JZKn8R6"
     }, {
       "ruta": "Bagà-Collet d'Aïna-El Jou-Fumanya-Vallcebre",
-      "fitxer": "baga-collet_aina-jou-fumanya-vallcebre.gpx"
+      "fitxer": "baga-collet_aina-jou-fumanya-vallcebre.gpx",
+      "desc": "ciclisme*Bagà*baga-collet_aina-jou-fumanya-vallcebre.gpx*2020-08-05*40.1 Km*02:34:44 *02:47:16*1339 m*1099 m*701m*1566m*vrqoM8DDZKO"
     }, {
       "ruta": "Bagà, Brocà, Collada Grossa, Paller de Dalt, Paller de Baix, Bagà",
-      "fitxer": "baga-broca-collada-grossa-paller-de-dalt-paller-de-baix-baga.gpx"
+      "fitxer": "baga-broca-collada-grossa-paller-de-dalt-paller-de-baix-baga.gpx",
+      "desc": "BTT*Bagà*baga-broca-collada-grossa-paller-de-dalt-paller-de-baix-baga.gpx*2019-08-20*19.4 Km*01:39:12*02:17:21*1081 m*868 m*768 m*1550 m*vWqBed1BjY6"
     }, {
       "ruta": "Bagà-Pla_Castell-Collada_Grossa-Refugi_Rebost-Millarès",
-      "fitxer": "Baga-Pla_Castell-Collada_Grossa-Refugi_Rebost-Millares.gpx"
+      "fitxer": "Baga-Pla_Castell-Collada_Grossa-Refugi_Rebost-Millares.gpx",
+      "desc": "BTT*Bagà*Baga-Pla_Castell-Collada_Grossa-Refugi_Rebost-Millares.gpx*2020-08-03*29.0 Km*02:46:20 *03:31:24*1594 m*1352 m*795m*1725m*vXOnMG5xX5v"
     }, {
       "ruta": "Bagà-Coll de Pal",
-      "fitxer": "baga-coll_de_pal.gpx"
+      "fitxer": "baga-coll_de_pal.gpx",
+      "desc": "ciclisme*Bagà*baga-coll_de_pal.gpx*2021-08-26*38.3 Km*04:04:56*04:04:56*1611 m*1321 m*820m*2107m*"
     }, {
       "ruta": "Entreno Bagà 1",
-      "fitxer": "entreno_baga_1.gpx"
+      "fitxer": "entreno_baga_1.gpx",
+      "desc": "BTT*Bagà*entreno_baga_1.gpx*2020-07-07*17.9 Km*01:25:56 *01:33:16*908 m*624 m*730m*1113m*vMq5dmN8586"
     }, {
       "ruta": "Cal Cerdanyola-Monnell-Murcurols-El Puig",
-      "fitxer": "cal_cerdanyola-monnell-murcurols-el_puig.gpx"
+      "fitxer": "cal_cerdanyola-monnell-murcurols-el_puig.gpx",
+      "desc": "senderisme*Bagà*cal_cerdanyola-monnell-murcurols-el_puig.gpx*2021-01-01*7.9 Km*02:24:19*02:37:55*530 m*458 m*915m*1192m*"
     }, {
       "ruta": "Bagà-Coll de la Bena-Turbians-Roca de Cans-Siti",
-      "fitxer": "baga-coll_bena-turbians-roca_de_cans-siti.gpx"
+      "fitxer": "baga-coll_bena-turbians-roca_de_cans-siti.gpx",
+      "desc": "BTT*Bagà*baga-coll_bena-turbians-roca_de_cans-siti.gpx*2021-05-21*27.6 Km*03:08:24*03:14:48*1437 m*1166 m*771m*1472m*"
     }, {
       "ruta": "Bagà-Gréixer-Coll d'Escriu-Empedrats-Bagà",
-      "fitxer": "baga-greixer-escriu-empedrats-baga.gpx"
+      "fitxer": "baga-greixer-escriu-empedrats-baga.gpx",
+      "desc": "BTT*Bagà*baga-greixer-escriu-empedrats-baga.gpx*2013-03-26*16.5 Km*00:48:52 *02:11:07*1023 m*730 m*796m*1503m*vXOnEkVyQBv"
     }, {
       "ruta": "Volta per Brocà (sector sud)",
-      "fitxer": "volta_broca_sector_sud.gpx"
+      "fitxer": "volta_broca_sector_sud.gpx",
+      "desc": "senderisme*Bagà*volta_broca_sector_sud.gpx*2020-07-10*7.2 Km*01:41:19 *02:21:19*297 m*224 m*745m*896m*"
     }, {
       "ruta": "Bagà-Riugréixer-Càmping",
-      "fitxer": "riugreixer-camping.gpx"
+      "fitxer": "riugreixer-camping.gpx",
+      "desc": "BTT*Bagà*riugreixer-camping.gpx*2021-08-24*4.7 Km*00:22:36*00:22:36*180 m*117 m*798m*895m*"
     }, {
       "ruta": "Bagà-Coll de la Pelosa",
-      "fitxer": "baga-coll_de_la_pelosa.gpx"
+      "fitxer": "baga-coll_de_la_pelosa.gpx",
+      "desc": "BTT*Bagà*baga-coll_de_la_pelosa.gpx*2021-05-22*22.0 Km*01:58:28*01:58:28*943 m*716 m*798m*1421m*"
     }, {
       "ruta": "Bagà-Brocà-Collada Grossa-L'Estret-Riutort",
-      "fitxer": "baga-broca-collada_grossa-estret-riutort.gpx"
+      "fitxer": "baga-broca-collada_grossa-estret-riutort.gpx",
+      "desc": "BTT*Bagà*baga-broca-collada_grossa-estret-riutort.gpx*2020-06-21*26.8 Km*02:22:47*03:10:57*1179 m*1029 m*747m*1551m*vNOPnVDzrYq"
+    }, {
+      "ruta": "Bagà-Rebost-Gavarrós-Coll Roig-Collet de la Casa Nova-Sant Vicenç de Rus-La Pobla-Guardiola",
+      "fitxer": "baga-rebost-gavarros-coll_roig-collet_casa_nova-sant_vicenc_de_rus-la_pobla-guardiola.gpx",
+      "desc": "BTT*Bagà*baga-rebost-gavarros-coll_roig-collet_casa_nova-sant_vicenc_de_rus-la_pobla-guardiola.gpx*2020-11-07*43.0 Km*03:53:11*04:03:47*1810 m*1426 m*720m*1723m"
     }, {
       "ruta": "Bagà-Gresolet-Riu de Saldes",
-      "fitxer": "baga-gresolet-riu_saldes.gpx"
+      "fitxer": "baga-gresolet-riu_saldes.gpx",
+      "desc": "BTT*Bagà*baga-gresolet-riu_saldes.gpx*2020-07-08*43.5 Km*03:02:44 *03:37:02*1754 m*1267 m*702m*1575m*vYvrDG22zx6"
     }, {
       "ruta": "Bagà-Coll de Merolla-Campdevànol",
-      "fitxer": "baga-coll_merolla-campdevanol.gpx"
+      "fitxer": "baga-coll_merolla-campdevanol.gpx",
+      "desc": "ciclisme*Bagà*baga-coll_merolla-campdevanol.gpx*2021-07-18*34.9 Km*01:43:19*01:43:19*848 m*451 m*721m*1100m*"
     }, {
       "ruta": "Cambra del Boc",
-      "fitxer": "cambra_del_boc.gpx"
+      "fitxer": "cambra_del_boc.gpx",
+      "desc": "senderisme*Bagà*cambra_del_boc.gpx*2020-08-06*9.0 Km*02:21:36 *04:22:40*1190 m*946 m*943m*1756m*vLqe1GPEzRq"
     }, {
       "ruta": "Bagà-Cap del Tossal",
-      "fitxer": "baga-cap_del_tossal.gpx"
+      "fitxer": "baga-cap_del_tossal.gpx",
+      "desc": "BTT*Bagà*baga-cap_del_tossal.gpx*2020-07-01*19.5 Km*01:08:32*02:30:45*961 m*800 m*705m*1349m*vrqDmZAyGwv"
     }]
   }, {
     "zona": "Altres",
     "id": "altres",
     "rutes": [{
       "ruta": "KKH-Karakorum Highway",
-      "fitxer": "KKH.gpx"
+      "fitxer": "KKH.gpx",
+      "desc": "BTT*Altres*KKH.gpx*1997-08-01*795.4 Km*04:45:30*04:45:30*14012 m*6123 m*1025m*4705m*"
     }, {
       "ruta": "Els tres refugis: Coma de Vaca, Ull de Ter, Ras de Carançà",
-      "fitxer": "els_tres_refugis.gpx"
+      "fitxer": "els_tres_refugis.gpx",
+      "desc": "senderisme*Altres*els_tres_refugis.gpx*2020-08-07*49.8 Km*01:54:12 *12:27:17*4053 m*3378 m*1133m*2722m*coma_de_vaca-ull_de_ter_ras_de_caranca"
+    }, {
+      "ruta": "Congost de Mont-rebei",
+      "fitxer": "congost_mont-rebei.gpx",
+      "desc": "senderisme*Altres*congost_mont-rebei.gpx*2021-12-07*10.5 Km*03:02:44*04:12:28*997 m*736 m*496m*857m*"
     }, {
       "ruta": "Montnegre Open MTB 32Km",
-      "fitxer": "montnegreopenmtb_32.gpx"
+      "fitxer": "montnegreopenmtb_32.gpx",
+      "desc": "BTT*Altres*montnegreopenmtb_32.gpx*2020-11-05*29.4 Km*02:25:40 *02:58:01*1102 m*884 m*138m*644m*vRO7RomyRyv"
+    }, {
+      "ruta": "Àger-Coll d'Ares-Alsamora-Mont-rebei-La Pertusa-Corçà",
+      "fitxer": "ager-coll_ares-alsamora-mont-rebei-la_pertusa-corca.gpx",
+      "desc": "BTT*Altres*ager-coll_ares-alsamora-mont-rebei-la_pertusa-corca.gpx*2008-11-18*50.5 Km*02:09:10*02:10:40*2311 m*1537 m*496m*1528m*"
+    }, {
+      "ruta": "Sant Salvador de les Espases",
+      "fitxer": "sant_salvador_de_les_espases.gpx",
+      "desc": "senderisme*Altres*sant_salvador_de_les_espases.gpx*2021-11-01*4.2 Km*01:30:42*02:04:38*445 m*360 m*94m*404m"
+    }, {
+      "ruta": "Serra d'Urbasa",
+      "fitxer": "serra_urbasa.gpx",
+      "desc": "BTT*Altres*serra_urbasa.gpx*1995-07-06*27.5 Km*00:25:10*00:25:10*394 m*238 m*857m*1083m*"
     }, {
       "ruta": "Maresme Challenge 2013",
-      "fitxer": "maresme_challenge_2013.gpx"
+      "fitxer": "maresme_challenge_2013.gpx",
+      "desc": "BTT*Altres*maresme_challenge_2013.gpx*2013-04-06*39.1 Km*02:38:23 *05:06:23*1633 m*1178 m*26m*446m*vXOd3mjVNkv"
+    }, {
+      "ruta": "Fageda d'Irati",
+      "fitxer": "fageda_irati.gpx",
+      "desc": "BTT*Altres*fageda_irati.gpx*1995-07-08*17.8 Km*00:35:20*00:35:20*580 m*266 m*747m*980m*"
     }, {
       "ruta": "Montnegre Open MTB 50Km",
-      "fitxer": "montnegreopenmtb_50.gpx"
+      "fitxer": "montnegreopenmtb_50.gpx",
+      "desc": "BTT*Altres*montnegreopenmtb_50.gpx*2021-03-19*49.1 Km*04:35:08*04:44:20*2058 m*1645 m*188m*634m*"
     }, {
       "ruta": "Pujada a la Mola",
-      "fitxer": "pujada_a_la_mola.gpx"
+      "fitxer": "pujada_a_la_mola.gpx",
+      "desc": "senderisme*Altres*pujada_a_la_mola.gpx*2020-12-31*5.5 Km*02:39:20*03:17:26*491 m*450 m*698m*1087m*"
+    }, {
+      "ruta": "Manresa-La Sala-Callús-Castellnou-Santpedor",
+      "fitxer": "manresa-la_sala-callus-castellnou-santpedor.gpx",
+      "desc": "BTT*Altres*manresa-la_sala-callus-castellnou-santpedor.gpx*2021-10-23*61.3 Km*04:32:32*05:30:36*1614 m*1298 m*201m*585m"
+    }, {
+      "ruta": "Embassament d'Irabia, Fageda d'Irati",
+      "fitxer": "embassament_irabia.gpx",
+      "desc": "BTT*Altres*embassament_irabia.gpx*1995-07-09*13.2 Km*00:24:20*00:24:20*433 m*215 m*789m*979m*"
+    }, {
+      "ruta": "Bardenas Reales",
+      "fitxer": "bardenas_reales.gpx",
+      "desc": "BTT*Altres*bardenas_reales.gpx*1995-07-10*50.3 Km*01:21:30*01:21:30*745 m*555 m*272m*470m*"
     }, {
       "ruta": "La Portals 2013 (4a Volta a Montserrat)",
-      "fitxer": "la-portals-2013-4a-volta-a-la-montanya-de-montserrat-en-btt.gpx"
+      "fitxer": "la-portals-2013-4a-volta-a-la-montanya-de-montserrat-en-btt.gpx",
+      "desc": "BTT*Altres*la-portals-2013-4a-volta-a-la-montanya-de-montserrat-en-btt.gpx*2013-04-14*60.9 Km*03:20:24 *03:27:06*2289 m*1762 m*76m*718m*v1OwMKVPmXq"
     }, {
-      "ruta": "Canovelles-Samalus-Roc Centelles-Cànoves-Marata",
-      "fitxer": "Canovelles-Samalus-Roc_Centelles-Canoves-Marata.gpx"
+      "ruta": "Vilafranca del P.-Sant Andreu de la B.",
+      "fitxer": "vilafranca_del_p-sant_andreu_de_la_b.gpx",
+      "desc": "BTT*Altres*vilafranca_del_p-sant_andreu_de_la_b.gpx*2021-10-02*39.8 Km*02:30:08*03:42:08*900 m*684 m*38m*566m*"
     }, {
       "ruta": "Santa Coloma de Gr-Sant Andreu de Llavaneres",
-      "fitxer": "sta_coloma-st_andreu_llavaneres.gpx"
+      "fitxer": "sta_coloma-st_andreu_llavaneres.gpx",
+      "desc": "BTT*Altres*sta_coloma-st_andreu_llavaneres.gpx*2013-06-26*51.9 Km*03:10:26*03:59:53*1590 m*1369 m*25m*477m*"
+    }, {
+      "ruta": "ToDo-Llacuna-Queralt-Sant Martí de Tous",
+      "fitxer": "todo-llacuna-queralt-st_marti_de_tous.gpx",
+      "desc": "BTT*Altres*todo-llacuna-queralt-st_marti_de_tous.gpx*2012-10-13*44.8 Km*01:39:28*04:39:58*1270 m*1031 m*432m*813m*"
+    }, {
+      "ruta": "Pessonada-Herba Savina",
+      "fitxer": "pessonada-herba_savina.gpx",
+      "desc": "senderisme*Altres*pessonada-herba_savina.gpx*2021-12-05*13.2 Km*04:06:31*04:06:44*688 m*571 m*862m*1032m*"
+    }, {
+      "ruta": "Sant Celoni-Santa Coloma de Gr",
+      "fitxer": "sant_celoni-santa_coloma_de_gr.gpx",
+      "desc": "BTT*Altres*sant_celoni-santa_coloma_de_gr.gpx*2022-02-17*62.7 Km*04:11:16*04:35:16*2446 m*1830 m*28m*638m*"
     }, {
       "ruta": "La Sènia-Casetes Velles-Fredes-La Sènia",
-      "fitxer": "la_senia-casetes_velles-fredes-la_senia.gpx"
+      "fitxer": "la_senia-casetes_velles-fredes-la_senia.gpx",
+      "desc": "BTT*Altres*la_senia-casetes_velles-fredes-la_senia.gpx*2012-10-01*63.9 Km*05:19:36*06:24:11*2580 m*1891 m*319m*1255m*"
+    }, {
+      "ruta": "Tavèrnoles-Savassona",
+      "fitxer": "tavernoles-savassona.gpx",
+      "desc": "senderisme*Altres*tavernoles-savassona.gpx*2022-01-16*5.6 Km*01:20:44*01:48:24*281 m*239 m*538m*675m*"
     }, {
       "ruta": "Llimiana, Serra Barcedana, Gercles",
-      "fitxer": "llimiana-serra-barcedana-gercles.gpx"
+      "fitxer": "llimiana-serra-barcedana-gercles.gpx",
+      "desc": "BTT*Altres*llimiana-serra-barcedana-gercles.gpx*2013-08-20*32.2 Km*01:28:28 *03:16:37*1117 m*914 m*392m*1172m*vrqodjBjjKv"
     }, {
       "ruta": "Monegros Nord",
-      "fitxer": "Monegros-nord.gpx"
+      "fitxer": "Monegros-nord.gpx",
+      "desc": "BTT*Altres*Monegros-nord.gpx*2016-05-01*84.8 Km*05:04:02 *05:55:26*1493 m*1205 m*189m*556m*vwq17eZKVLO"
     }, {
-      "ruta": "ToDo - Calaf-Cellers-Quadrells",
-      "fitxer": "todo-calaf-cellers-quadrells.gpx"
+      "ruta": "ToDo-Calaf-Cellers-Quadrells",
+      "fitxer": "todo-calaf-cellers-quadrells.gpx",
+      "desc": "BTT*Altres*todo-calaf-cellers-quadrells.gpx*2020-12-18*50.1 Km*01:49:52*06:03:49*1312 m*1131 m*493m*920m*"
     }, {
-      "ruta": "ToDo - Calaf-Rubió-Jorba-Copons",
-      "fitxer": "todo-calaf-rubio-jorba-copons.gpx"
+      "ruta": "ToDo-Calaf-Rubió-Jorba-Copons",
+      "fitxer": "todo-calaf-rubio-jorba-copons.gpx",
+      "desc": "BTT*Altres*todo-calaf-rubio-jorba-copons.gpx*2014-07-06*44.4 Km*00:02:40*03:47:52*835 m*611 m*378m*769m*"
     }, {
       "ruta": "Integral megalítica de Vallromanes",
-      "fitxer": "integral_megalitica_vallromanes.gpx"
+      "fitxer": "integral_megalitica_vallromanes.gpx",
+      "desc": "BTT*Altres*integral_megalitica_vallromanes.gpx*2021-03-05*46.0 Km*04:12:12*05:05:56*1511 m*1270 m*51m*444m*"
     }, {
       "ruta": "Monegros Sud",
-      "fitxer": "Monegros-sud.gpx"
+      "fitxer": "Monegros-sud.gpx",
+      "desc": "BTT*Altres*Monegros-sud.gpx*2012-12-29*72.5 Km*14:49:09 *00:32:16*563 m*430 m*307m*411m*v4OGm8Dz4mq"
     }, {
       "ruta": "Garraf - Begues - Garraf",
-      "fitxer": "garraf-begues-garraf.gpx"
+      "fitxer": "garraf-begues-garraf.gpx",
+      "desc": "BTT*Altres*garraf-begues-garraf.gpx*1998-03-31*38.5 Km*02:21:34 *03:35:10*1313 m*1073 m*15m*569m*vrqodwKyRKv"
     }, {
-      "ruta": "Granollers-Roc de Centelles",
-      "fitxer": "granollers-roc_de_centelles.gpx"
+      "ruta": "Sabadell-Marquet de les Roques",
+      "fitxer": "sabadell-marquet_de_les_roques.gpx",
+      "desc": "BTT*Altres*sabadell-marquet_de_les_roques.gpx*2021-12-16*49.0 Km*03:20:08*03:54:08*1571 m*1107 m*162m*617m*"
     }, {
       "ruta": "Marxa dels Castells 2010",
-      "fitxer": "marxa_castells.gpx"
-    }, {
-      "ruta": "Aiguafreda-Collformic-Pla de la Calma-Tagamanent",
-      "fitxer": "Aiguafreda-Collformic-Pla_de_la_Calma-Tagamanent.gpx"
+      "fitxer": "marxa_castells.gpx",
+      "desc": "senderisme*Altres*marxa_castells.gpx*2010-03-07*54.3 Km*08:53:33 *09:28:18*997 m*842 m*387m*576m*v36ArVA92Zq"
     }, {
       "ruta": "Castells del Loira",
-      "fitxer": "castells_loira.gpx"
+      "fitxer": "castells_loira.gpx",
+      "desc": "ciclisme*Altres*castells_loira.gpx*2021-08-08*195.4 Km*11:28:03*23:58:28*2244 m*996 m*26m*111m*"
+    }, {
+      "ruta": "Carros de Foc",
+      "fitxer": "carros_foc.gpx",
+      "desc": "senderisme*Altres*carros_foc.gpx*2003-09-18*67.1 Km*00:00:00*12:04:00*5577 m*4810 m*1880m*2747m*"
+    }, {
+      "ruta": "La Floresta-Vilanova i la Geltrú",
+      "fitxer": "la_floresta-vilanova_i_la_geltru.gpx",
+      "desc": "BTT*Altres*la_floresta-vilanova_i_la_geltru.gpx*2021-11-28*76.4 Km*05:46:32*06:06:08*2233 m*1750 m*11m*574m*"
+    }, {
+      "ruta": "Castelldefels-Sitges",
+      "fitxer": "castelldefels-sitges.gpx",
+      "desc": "BTT*Altres*castelldefels-sitges.gpx*2022-02-24*47.7 Km*03:12:04*03:45:48*1418 m*1096 m*8m*461m*"
+    }, {
+      "ruta": "Roncesvalles",
+      "fitxer": "roncesvalles.gpx",
+      "desc": "BTT*Altres*roncesvalles.gpx*1995-07-07*13.3 Km*00:19:30*00:19:30*395 m*257 m*887m*1188m*"
+    }, {
+      "ruta": "Igualada-Calaf-Manresa-Igualada",
+      "fitxer": "igualada-calaf-manresa-igualada.gpx",
+      "desc": "BTT*Altres*igualada-calaf-manresa-igualada.gpx*2021-12-04*95.0 Km*05:42:36*06:52:36*2147 m*1689 m*237m*724m*"
     }]
   }, {
     "zona": "TransPirenaica",
     "id": "transpirenaica",
     "rutes": [{
       "ruta": "Transpirinenca. Fiscal-Aurín",
-      "fitxer": "TP_11_fiscal-aurin.gpx"
-    }, {
-      "ruta": "Transpirinenca. Llavorsí-Espui",
-      "fitxer": "TP_07_llavorsí-espui.gpx"
-    }, {
-      "ruta": "Transpirinenca. Camprodon-Planoles",
-      "fitxer": "TP_03_camprodon-planoles.gpx"
-    }, {
-      "ruta": "Transpirinenca. Noves de Segre-Llavorsí",
-      "fitxer": "TP_06_noves_de_segre-llavorsi.gpx"
-    }, {
-      "ruta": "Transpirinenca. Etxalar-Hondarribia",
-      "fitxer": "TP_16_etxalar-hondarribia.gpx"
+      "fitxer": "TP_11_fiscal-aurin.gpx",
+      "desc": "BTT*TransPirenaica*TP_11_fiscal-aurin.gpx*1996-07-06*50.3 Km*00:05:56*09:06:19*1295 m*1073 m*774m*1678m*"
     }, {
       "ruta": "Transpirinenca. Bagà-Noves de Segre",
-      "fitxer": "TP_05_bagà-noves_de_segre.gpx"
+      "fitxer": "TP_05_baga-noves_de_segre.gpx",
+      "desc": "BTT*TransPirenaica*TP_05_baga-noves_de_segre.gpx*1995-07-06*66.9 Km*17:16:10*23:52:26*1778 m*1576 m*594m*1914m*"
+    }, {
+      "ruta": "Transpirinenca. Camprodon-Planoles",
+      "fitxer": "TP_03_camprodon-planoles.gpx",
+      "desc": "BTT*TransPirenaica*TP_03_camprodon-planoles.gpx*1995-05-01*57.9 Km*16:37:52*00:40:04*1847 m*1799 m*940m*2059m*"
+    }, {
+      "ruta": "Transpirinenca. Noves de Segre-Llavorsí",
+      "fitxer": "TP_06_noves_de_segre-llavorsi.gpx",
+      "desc": "BTT*TransPirenaica*TP_06_noves_de_segre-llavorsi.gpx*1995-07-06*51.9 Km*15:57:52*23:15:35*1407 m*1245 m*652m*1757m*"
+    }, {
+      "ruta": "Transpirinenca. Etxalar-Hondarribia",
+      "fitxer": "TP_16_etxalar-hondarribia.gpx",
+      "desc": "BTT*TransPirenaica*TP_16_etxalar-hondarribia.gpx*1996-07-06*43.6 Km*00:08:07*07:37:09*1098 m*886 m*5m*450m*"
     }, {
       "ruta": "Transpirinenca. Planoles-Bagà",
-      "fitxer": "TP_04_planoles-baga.gpx"
-    }, {
-      "ruta": "Transpirinenca. Izaba-Roncesvalles",
-      "fitxer": "TP_14_izaba-roncesvalles.gpx"
-    }, {
-      "ruta": "Transpirinenca. Echo-Izaba",
-      "fitxer": "TP_13_echo-izaba.gpx"
-    }, {
-      "ruta": "Transpirinenca. Espui-Bonansa",
-      "fitxer": "TP_08_espui-bonansa.gpx"
-    }, {
-      "ruta": "Transpirinenca. Bonansa-Escalona",
-      "fitxer": "TP_09_bonansa-escalona.gpx"
+      "fitxer": "TP_04_planoles-baga.gpx",
+      "desc": "BTT*TransPirenaica*TP_04_planoles-baga.gpx*1995-07-06*54.6 Km*00:17:04*07:17:24*1684 m*1491 m*821m*2104m*"
     }, {
       "ruta": "Transpirinenca. Llançà-Albanyà",
-      "fitxer": "TP_01_llança-albanya.gpx"
+      "fitxer": "TP_01_llanca-albanya.gpx",
+      "desc": "BTT*TransPirenaica*TP_01_llanca-albanya.gpx*1995-05-01*75.5 Km*06:27:24*16:36:42*1667 m*1288 m*0m*362m*"
+    }, {
+      "ruta": "Transpirinenca. Izaba-Roncesvalles",
+      "fitxer": "TP_14_izaba-roncesvalles.gpx",
+      "desc": "BTT*TransPirenaica*TP_14_izaba-roncesvalles.gpx*1996-07-06*73.3 Km*00:20:02*09:28:59*1766 m*1465 m*756m*1341m*"
+    }, {
+      "ruta": "Transpirinenca. Echo-Izaba",
+      "fitxer": "TP_13_echo-izaba.gpx",
+      "desc": "BTT*TransPirenaica*TP_13_echo-izaba.gpx*1996-07-06*37.4 Km*00:03:34*06:54:15*1040 m*860 m*793m*1283m*"
+    }, {
+      "ruta": "Transpirinenca. Espui-Bonansa",
+      "fitxer": "TP_08_espui-bonansa.gpx",
+      "desc": "BTT*TransPirenaica*TP_08_espui-bonansa.gpx*1995-07-06*61.9 Km*00:25:12*11:14:13*1891 m*1649 m*861m*1595m*"
+    }, {
+      "ruta": "Transpirinenca. Bonansa-Escalona",
+      "fitxer": "TP_09_bonansa-escalona.gpx",
+      "desc": "BTT*TransPirenaica*TP_09_bonansa-escalona.gpx*1995-07-06*75.1 Km*12:25:18*23:59:13*2113 m*1706 m*622m*1615m*"
+    }, {
+      "ruta": "Transpirinenca. Llavorsí-Espui",
+      "fitxer": "TP_07_llavorsi-espui.gpx",
+      "desc": "BTT*TransPirenaica*TP_07_llavorsi-espui.gpx*1995-07-06*58.1 Km*14:44:55*00:16:50*1872 m*1653 m*822m*2270m*"
     }, {
       "ruta": "Transpirinenca. Albanyà-Camprodon",
-      "fitxer": "TP_02_albanya-camprodon.gpx"
+      "fitxer": "TP_02_albanya-camprodon.gpx",
+      "desc": "BTT*TransPirenaica*TP_02_albanya-camprodon.gpx*1995-05-01*61.7 Km*00:16:32*08:32:53*1995 m*1698 m*219m*986m*"
     }, {
       "ruta": "Transpirinenca. Aurín-Echo",
-      "fitxer": "TP_12_aurín-echo.gpx"
+      "fitxer": "TP_12_aurín-echo.gpx",
+      "desc": "BTT*TransPirenaica*TP_12_aurín-echo.gpx*1996-07-06*71.5 Km*14:39:07*23:49:51*1693 m*1438 m*747m*1501m*"
     }, {
       "ruta": "Transpirinenca. Roncesvalles-Etxalar",
-      "fitxer": "TP_15_roncesvalles-etxalar.gpx"
+      "fitxer": "TP_15_roncesvalles-etxalar.gpx",
+      "desc": "BTT*TransPirenaica*TP_15_roncesvalles-etxalar.gpx*1996-07-06*66.6 Km*15:02:15*23:46:28*1676 m*1436 m*117m*1189m*"
     }, {
       "ruta": "Transpirinenca. Escalona-Fiscal",
-      "fitxer": "TP_10_escalona-fiscal.gpx"
+      "fitxer": "TP_10_escalona-fiscal.gpx",
+      "desc": "BTT*TransPirenaica*TP_10_escalona-fiscal.gpx*1995-07-06*69.3 Km*13:45:21*00:20:37*2121 m*1805 m*621m*2034m*"
     }]
   }, {
     "zona": "Port de la Selva",
     "id": "port_de_la_selva",
     "rutes": [{
       "ruta": "Port de la Selva-Selva Mar-Coll Bombo-Pla Causa-Puig Sardina-Roses-Mas Romanyac-GR92",
-      "fitxer": "port_selva-coll_bombo-pla_causa-puig_sardina-roses-mas_romanyac-GR9.gpx"
+      "fitxer": "port_selva-coll_bombo-pla_causa-puig_sardina-roses-mas_romanyac-GR9.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-coll_bombo-pla_causa-puig_sardina-roses-mas_romanyac-GR9.gpx*2020-08-22*38.9 Km*02:49:34 *04:04:04*1693 m*1231 m*50m*488m*vMq5Ger5kQO"
     }, {
       "ruta": "Port de la Selva-St Baldiri-Cala_Taballera-Cadaqués-GR92",
-      "fitxer": "port_selva-st_baldiri-cala_taballera-cadaques-GR92.gpx"
+      "fitxer": "port_selva-st_baldiri-cala_taballera-cadaques-GR92.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-st_baldiri-cala_taballera-cadaques-GR92.gpx*2020-08-24*32.3 Km*03:25:28 *04:46:52*1163 m*984 m*0m*224m*vevYDQZp4yq"
     }, {
       "ruta": "Port Selva-St Pere de Rodes-Llançà-Puig Tifeu-Garbet",
-      "fitxer": "port_selva-st_pere_de_rodes-llança-puig_tifeu-garbet.gpx"
+      "fitxer": "port_selva-st_pere_de_rodes-llanca-puig_tifeu-garbet.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-st_pere_de_rodes-llanca-puig_tifeu-garbet.gpx*2020-08-20*41.6 Km*03:12:44 *04:01:24*1373 m*1128 m*1m*522m*vrqD4PZL3wq"
     }, {
-      "ruta": "ToDo - Camprodon - Port de la Selva /10-09-11",
-      "fitxer": "todo-camprodon-port-de-la-selva-10-09-11.gpx"
+      "ruta": "ToDo-Camprodon - Port de la Selva /10-09-11",
+      "fitxer": "todo-camprodon-port-de-la-selva-10-09-11.gpx",
+      "desc": "BTT*Port de la Selva*camprodon-port-de-la-selva-10-09-11.gpx*2011-09-10*126.7 Km*04:55:26 *06:17:45*3374 m*2596 m*1m*1514m*vdvmB4n28NO"
     }, {
       "ruta": "Port de la Selva-Sant Pere de Rodes-Sant Onofre-Palau-Saverdera",
-      "fitxer": "port_de_la_selva-sant_pere_de_r-sant_onofre-palau_saverdera.gpx"
+      "fitxer": "port_de_la_selva-sant_pere_de_r-sant_onofre-palau_saverdera.gpx",
+      "desc": "BTT*Port de la Selva*port_de_la_selva-sant_pere_de_r-sant_onofre-palau_saverdera.gpx*2021-08-01*32.5 Km*02:20:07*02:20:07*960 m*842 m*2m*506m*"
     }, {
       "ruta": "Port de la Selva-Selva de Mar-Mas Romanyac-Coll de Perafita-Cadaqués-GR92",
-      "fitxer": "port_selva-selva_mar-mas_romanyac-perafita-cadaques-GR92.gpx"
+      "fitxer": "port_selva-selva_mar-mas_romanyac-perafita-cadaques-GR92.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-selva_mar-mas_romanyac-perafita-cadaques-GR92.gpx*2020-08-29*33.6 Km*02:28:00 *02:55:44*1002 m*822 m*1m*349m*v26M25p4YEq"
     }, {
       "ruta": "Port de la Selva-Cala Taballera-Mas de Birba-GR92",
-      "fitxer": "port_selva-taballera-birba-gr92.gpx"
+      "fitxer": "port_selva-taballera-birba-gr92.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-taballera-birba-gr92.gpx*2020-08-18*26.8 Km*02:15:12 *02:31:56*842 m*646 m*0m*257m*vRO7RoDdAyv"
     }, {
       "ruta": "Port de la Selva-3 dòlmens de Taballera",
-      "fitxer": "port_selva-3_dolmens_taballera.gpx"
+      "fitxer": "port_selva-3_dolmens_taballera.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-3_dolmens_taballera.gpx*2020-08-28*21.0 Km*01:45:52 *02:18:40*651 m*529 m*1m*316m*vYvrNeXGpLv"
     }, {
       "ruta": "Port de la Selva-Vall de la Santa Creu",
-      "fitxer": "port_selva-vall_sta_creu.gpx"
+      "fitxer": "port_selva-vall_sta_creu.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-vall_sta_creu.gpx*2020-08-26*10.7 Km*00:44:04 *00:48:56*273 m*203 m*2m*177m*vmqXowZjeL6"
     }, {
       "ruta": "Port de la Selva-carretera de Roses a Coll de Perafita",
-      "fitxer": "port_selva-carretera_roses_perafita.gpx"
+      "fitxer": "port_selva-carretera_roses_perafita.gpx",
+      "desc": "BTT*Port de la Selva*port_selva-carretera_roses_perafita.gpx*2020-08-27*16.4 Km*01:38:08 *02:24:48*473 m*404 m*5m*334m*v36Ae2zyzG6"
     }, {
       "ruta": "Port de la Selva-Perafita-Jóncols-Cadaqués",
-      "fitxer": "port_de_la_selva-perafita-joncols-cadaques.gpx"
+      "fitxer": "port_de_la_selva-perafita-joncols-cadaques.gpx",
+      "desc": "BTT*Port de la Selva*port_de_la_selva-perafita-joncols-cadaques.gpx*2021-08-04*41.8 Km*04:03:24*04:48:20*1341 m*1159 m*2m*421m*"
     }, {
       "ruta": "Port de la Selva-Roses-dòlmens-Perafita",
-      "fitxer": "port_de_la_selva-roses-dolmens-perafita.gpx"
+      "fitxer": "port_de_la_selva-roses-dolmens-perafita.gpx",
+      "desc": "BTT*Port de la Selva*port_de_la_selva-roses-dolmens-perafita.gpx*2021-08-02*34.2 Km*02:45:23*02:48:55*1002 m*895 m*5m*447m*"
     }]
   }, {
     "zona": "Sant Feliu",
     "id": "sant_feliu",
     "rutes": [{
+      "ruta": "Sant Feliu de Codines-Sabadell v2",
+      "fitxer": "sant_feliu_de_c-sabadell_v2.gpx",
+      "desc": "BTT*Sant Feliu*sant_feliu_de_c-sabadell.gpx*2021-05-30*28.6 Km*02:16:56*02:19:44*791 m*583 m*138m*621m*"
+    }, {
       "ruta": "St Feliu de Codines-Tenes-Besós-BCN",
-      "fitxer": "st_feliu_codines-tenes-besos-bcn.gpx"
+      "fitxer": "st_feliu_codines-tenes-besos-bcn.gpx",
+      "desc": "BTT*Sant Feliu*st_feliu_codines-tenes-besos-bcn.gpx*2020-09-20*55.5 Km*02:51:40 *03:05:16*595 m*270 m*11m*537m*vNOPPMJmWYO"
     }, {
       "ruta": "Sant Feliu de C-Vacarisses",
-      "fitxer": "sant_feliu_de_c-vacarisses.gpx"
+      "fitxer": "sant_feliu_de_c-vacarisses.gpx",
+      "desc": "BTT*Sant Feliu*sant_feliu_de_c-vacarisses.gpx*2021-07-04*44.4 Km*03:10:43*03:23:43*1470 m*1182 m*314m*761m*"
     }, {
       "ruta": "St Feliu-Volta a la Popa",
-      "fitxer": "st_feliu_cod-volta_a_la_popa.gpx"
+      "fitxer": "st_feliu_cod-volta_a_la_popa.gpx",
+      "desc": "BTT*Sant Feliu*st_feliu_cod-volta_a_la_popa.gpx*2021-03-31*35.0 Km*03:27:20*03:47:36*1113 m*906 m*472 m*887 m*"
     }, {
       "ruta": "Sant Feliu de Codines-Sabadell",
-      "fitxer": "sant_feliu_codines_sabadell.gpx"
+      "fitxer": "sant_feliu_codines_sabadell.gpx",
+      "desc": "BTT*Sant Feliu*sant_feliu_codines_sabadell.gpx*2019-11-21*33.4 Km*02:03:28 *02:14:43*801 m*619 m*116m*621m*vNOPnEm5K2q"
     }, {
       "ruta": "St Feliu-Unyó-Ullà",
-      "fitxer": "st_miquel_del_fai_uno_ulla.gpx"
+      "fitxer": "st_miquel_del_fai_uno_ulla.gpx",
+      "desc": "senderisme*Sant Feliu*st_miquel_del_fai_uno_ulla.gpx*2015-03-30*6.4 Km*00:00:46 *03:00:27*604 m*309 m*467m*778m*vMq5dwywkQ6"
     }, {
       "ruta": "St Feliu de Codines-Gallifa-El Farell-Caldes",
-      "fitxer": "st_feliu_codines_gallifa_farell_caldes.gpx"
+      "fitxer": "st_feliu_codines_gallifa_farell_caldes.gpx",
+      "desc": "BTT*Sant Feliu*st_feliu_codines_gallifa_farell_caldes.gpx*2020-06-13*29.6 Km*01:46:34*02:30:04*979 m*797 m*230m*691m*vMq5d2w37Q6"
     }, {
       "ruta": "Centelles - Sant Feliu",
-      "fitxer": "centelles_stfeliu.gpx"
+      "fitxer": "centelles_stfeliu.gpx",
+      "desc": "BTT*Sant Feliu*centelles_stfeliu.gpx*2019-11-16*29.5 Km*02:14:00 *02:26:19*965 m*777 m*464m*877m*vNOPnEm5V2q"
     }, {
-      "ruta": "TODO St Feliu corriols",
-      "fitxer": "todo-st_feliu-corriols.gpx"
+      "ruta": "Sant Feliu-Sant Llorenç-Vinardell-Castellterçol-Coll de Termes",
+      "fitxer": "sant_feliu-sant_llorenc-vinardell-castelltercol-coll_termes.gpx",
+      "desc": "BTT*Sant Feliu*sant_feliu-sant_llorenc-vinardell-castelltercol-coll_termes.gpx*2021-12-27*38.7 Km*03:22:00*03:39:00*1462 m*1186 m*473m*937m*"
+    }, {
+      "ruta": "ToDo-St Feliu corriols",
+      "fitxer": "todo-st_feliu-corriols.gpx",
+      "desc": "BTT*Sant Feliu*todo-st_feliu-corriols.gpx*2021-04-10*15.2 Km*01:38:50*01:39:30*557 m*420 m*473 m*703 m*"
+    }, {
+      "ruta": "ToDo-Volta per Sant Feliu 5",
+      "fitxer": "todo-volta_per_sant_feliu_5.gpx",
+      "desc": "BTT*Sant Feliu*todo-volta_per_sant_feliu_5.gpx*2022-03-07*7.3 Km*00:00:00*00:54:20*260 m*179 m*472m*640m*"
     }, {
       "ruta": "Barcelona - Sant Feliu",
-      "fitxer": "bcn_stfeliu_1.gpx"
+      "fitxer": "bcn_stfeliu_1.gpx",
+      "desc": "BTT*Sant Feliu*bcn_stfeliu_1.gpx*2013-07-13*55.8 Km*00:25:13 *00:25:13*1466 m*1048 m*101m*674m*vYvE9GLMAwv"
     }, {
       "ruta": "Sant Feliu-La Garriga",
-      "fitxer": "st_feliu-la_garriga.gpx"
+      "fitxer": "st_feliu-la_garriga.gpx",
+      "desc": "BTT*Sant Feliu*st_feliu-la_garriga.gpx*2012-11-04*25.4 Km*01:24:47*01:59:25*686 m*581 m*302m*893m*v1OwMKVx5Xq"
     }, {
       "ruta": "Sant Feliu de C-Riera de Caldes-Riu Besós-Sta Coloma de Gr",
-      "fitxer": "st_feliu_de_c-sta_coloma_de_gr.gpx"
+      "fitxer": "st_feliu_de_c-sta_coloma_de_gr.gpx",
+      "desc": "BTT*Sant Feliu*st_feliu_de_c-sta_coloma_de_gr.gpx*2020-03-01*40.7 Km*02:05:53 *02:43:06*357 m*111 m*11m*483m*vRO7d4pNXK6"
     }, {
       "ruta": "Sant Feliu-La Garriga v2",
-      "fitxer": "st_feliu-la_garriga_v2.gpx"
+      "fitxer": "st_feliu-la_garriga_v2.gpx",
+      "desc": "BTT*Sant Feliu*st_feliu-la_garriga_v2.gpx*2021-04-09*25.6 Km*02:03:04*02:27:04*936 m*722 m*242 m*832 m*"
     }, {
       "ruta": "Centelles-Collsuspina-Popa-St Feliu de Codines",
-      "fitxer": "Centelles-Collsuspina-Popa-St_Feliu_de_Codines.gpx"
+      "fitxer": "Centelles-Collsuspina-Popa-St_Feliu_de_Codines.gpx",
+      "desc": "BTT*Sant Feliu*Centelles-Collsuspina-Popa-St_Feliu_de_Codines.gpx*2020-12-24*35.6 Km*02:56:36*03:13:12*1071 m*798 m*475m*946m*"
     }, {
       "ruta": "Terrassa-Sant Feliu de Codines",
-      "fitxer": "Terrassa-Sant_Feliu_de_Codines.gpx"
+      "fitxer": "Terrassa-Sant_Feliu_de_Codines.gpx",
+      "desc": "BTT*Sant Feliu*Terrassa-Sant_Feliu_de_Codines.gpx*2020-02-02*34.7 Km*02:34:50 *02:50:15*1253 m*1040 m*269m*644m*vQvyz5M5yKO"
     }, {
       "ruta": "Castellterçol, Sant Julià d'Úixols i Sant Quirze Safaja",
-      "fitxer": "castelltercol-sant-julia-duixols-i-sant-quirze-safaja.gpx"
+      "fitxer": "castelltercol-sant-julia-duixols-i-sant-quirze-safaja.gpx",
+      "desc": "BTT*Sant Feliu*castelltercol-sant-julia-duixols-i-sant-quirze-safaja.gpx*2011-09-18*15.5 Km*22:22:32 *22:22:32*552 m*456 m*604m*893m*v1OwMKVPmXq"
     }, {
       "ruta": "St_Feliu_Codines-Poses-Matafaluga-Gallifa",
-      "fitxer": "St_Feliu_Codines-Poses-Matafaluga-Gallifa.gpx"
+      "fitxer": "St_Feliu_Codines-Poses-Matafaluga-Gallifa.gpx",
+      "desc": "BTT*Sant Feliu*St_Feliu_Codines-Poses-Matafaluga-Gallifa.gpx*2020-07-18*37.9 Km*02:27:36*02:39:48*1171 m*887 m*471m*942m*vQvyD1NxNKq"
     }, {
       "ruta": "Volta per Sant Feliu 1",
-      "fitxer": "volta_per_st_feliu_1.gpx"
+      "fitxer": "volta_per_st_feliu_1.gpx",
+      "desc": "BTT*Sant Feliu*volta_per_st_feliu_1.gpx*2020-12-07*12.4 Km*01:03:32*01:03:52*450 m*367 m*362m*560m*"
     }, {
       "ruta": "Sant Feliu-Castellterçol-Llogari-Granera",
-      "fitxer": "can_deu-termes-uixols-castelltercol-llogari-granera-gallifa.gpx"
+      "fitxer": "can_deu-termes-uixols-castelltercol-llogari-granera-gallifa.gpx",
+      "desc": "BTT*Sant Feliu*can_deu-termes-uixols-castelltercol-llogari-granera-gallifa.gpx*2021-08-19*50.7 Km*03:24:24*03:39:48*1569 m*1264 m*470m*894m*"
     }, {
       "ruta": "Sta Coloma Gr-Vall del Tenes-St Feliu",
-      "fitxer": "sta_coloma-tenes-st_feliu.gpx"
+      "fitxer": "sta_coloma-tenes-st_feliu.gpx",
+      "desc": "BTT*Sant Feliu*sta_coloma-tenes-st_feliu.gpx*2021-03-30*43.8 Km*02:55:44*02:56:58*841 m*601 m*13 m*480 m*"
     }, {
       "ruta": "Sant Feliu-Sant Miquel del Fai-Camí a Llobateres",
-      "fitxer": "sant_feliu-sant_miquel_del_fai-cami_a_llobateres.gpx"
+      "fitxer": "sant_feliu-sant_miquel_del_fai-cami_a_llobateres.gpx",
+      "desc": "BTT*Sant Feliu*sant_feliu-sant_miquel_del_fai-cami_a_llobateres.gpx*2021-08-30*15.4 Km*01:56:52*01:57:19*551 m*407 m*472m*656m*"
+    }, {
+      "ruta": "Volta per Sant Feliu 4",
+      "fitxer": "volta_per_sant_feliu_4.gpx",
+      "desc": "senderisme*Sant Feliu*volta_per_sant_feliu_4.gpx*2021-12-25*6.7 Km*01:55:44*02:07:28*324 m*295 m*414m*566m*"
     }, {
       "ruta": "Vacarisses-Obac-St Llorenc Savall-Gallifa-St Feliu",
-      "fitxer": "Vacarisses-Obac-St_Llorenc_Savall-Gallifa-St_Feliu.gpx"
+      "fitxer": "Vacarisses-Obac-St_Llorenc_Savall-Gallifa-St_Feliu.gpx",
+      "desc": "BTT*Sant Feliu*Vacarisses-Obac-St_Llorenc_Savall-Gallifa-St_Feliu.gpx*2021-05-08*45.0 Km*03:03:32*03:06:56*1461 m*1177 m*324m*760m*"
     }, {
       "ruta": "Sant Feliu de Codines-Terrassa",
-      "fitxer": "Sant_feliu_codines-Terrassa.gpx"
+      "fitxer": "Sant_feliu_codines-Terrassa.gpx",
+      "desc": "BTT*Sant Feliu*Sant_feliu_codines-Terrassa.gpx*2020-02-09*39.4 Km*02:44:36 *03:12:44*1201 m*932 m*273m*636m*vXvLYm5E97O"
     }, {
       "ruta": "Volta a Sant Feliu 3",
-      "fitxer": "volta_sant_feliu_3.gpx"
+      "fitxer": "volta_sant_feliu_3.gpx",
+      "desc": "BTT*Sant Feliu*volta_sant_feliu_3.gpx*2021-08-17*31.9 Km*02:52:40*02:58:16*1002 m*767 m*318m*559m*"
     }, {
       "ruta": "Volta per Sant Feliu 2",
-      "fitxer": "volta_per_sant_feliu_2.gpx"
+      "fitxer": "volta_per_sant_feliu_2.gpx",
+      "desc": "BTT*Sant Feliu*volta_per_sant_feliu_2.gpx*2021-07-03*15.4 Km*01:11:28*01:11:28*523 m*398 m*318m*533m*"
+    }, {
+      "ruta": "Sant Feliu de C-Sant Vicenç de Castellet",
+      "fitxer": "sant_feliu_de_c-sant_vicenc_de_castellet.gpx",
+      "desc": "ciclisme*Sant Feliu*sant_feliu_de_c-sant_vicenc_de_castellet.gpx*2021-09-25*47.9 Km*02:14:40*02:14:40*1038 m*706 m*175m*651m*"
+    }, {
+      "ruta": "Sant Feliu-Soler del Coll-Centelles-Popa-Sant Feliu",
+      "fitxer": "sant_feliu-soler_del_coll-centelles-popa-sant_feliu.gpx",
+      "desc": "BTT*Sant Feliu*sant_feliu-soler_del_coll-centelles-popa-sant_feliu.gpx*2022-02-27*49.5 Km*03:19:24*03:36:31*1956 m*1300 m*456m*891m*"
+    }, {
+      "ruta": "Can Déu del Veïnat-Collet de Termes-Coll de Poses-Camí dels Horts",
+      "fitxer": "can_deu_del_veinat-collet_de_termes-coll_de_poses-cami_dels_horts.gpx",
+      "desc": "BTT*Sant Feliu*can_deu_del_veinat-collet_de_termes-coll_de_poses-cami_dels_horts.gpx*2021-09-19*14.7 Km*01:30:48*01:30:48*526 m*445 m*465m*840m*"
     }, {
       "ruta": "Centelles-Collsuspina-Sta Coloma S-Castellterçol-St Julià Uixols-St Feliu",
-      "fitxer": "centelles-collsus-sta_col_sasserra-castelltercol-uixols.gpx"
+      "fitxer": "centelles-collsus-sta_col_sasserra-castelltercol-uixols.gpx",
+      "desc": "BTT*Sant Feliu*centelles-collsus-sta_col_sasserra-castelltercol-uixols.gpx*2021-02-21*41.0 Km*03:07:16*03:20:44*1170 m*960 m*471m*939m*"
     }, {
       "ruta": "Sant Feliu de Codines-Caldes-Sentmenat-Castellar-St Sebastià de Montmajor",
-      "fitxer": "st_feliu-caldes-castellar-montmajor.gpx"
+      "fitxer": "st_feliu-caldes-castellar-montmajor.gpx",
+      "desc": "BTT*Sant Feliu*st_feliu-caldes-castellar-montmajor.gpx*2020-06-07*38.9 Km*02:53:22 *03:02:33*1345 m*1061 m*201m*621m*v8qV125GE76"
     }, {
       "ruta": "Sant Feliu-Collsuspina",
-      "fitxer": "sant_feliu-collsuspina.gpx"
+      "fitxer": "sant_feliu-collsuspina.gpx",
+      "desc": "BTT*Sant Feliu*sant_feliu-collsuspina.gpx*2021-08-22*46.5 Km*03:20:59*03:31:47*1177 m*893 m*472m*916m*"
     }]
   }, {
     "zona": "Barcelona",
     "id": "barcelona",
     "rutes": [{
+      "ruta": "Maria 16 anys",
+      "fitxer": "maria_16_anys.gpx",
+      "desc": "ciclisme*Barcelona*maria_16_anys.gpx*2021-11-14*24.9 Km*01:48:40*01:52:08*375 m*292 m*16m*76m*"
+    }, {
       "ruta": "Volta per Collserola 3",
-      "fitxer": "volta_per_collserola_3.gpx"
+      "fitxer": "volta_per_collserola_3.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_3.gpx*2021-02-11*28.4 Km*02:00:24*02:02:12*931 m*699 m*62m*396m*"
     }, {
       "ruta": "Entreno Collserola Oriental v2",
-      "fitxer": "entreno_collserola_oriental_v2.gpx"
+      "fitxer": "entreno_collserola_oriental_v2.gpx",
+      "desc": "BTT*Barcelona*entreno_collserola_oriental_v2.gpx*2012-12-13*40.3 Km*02:27:03 *03:58:28*1918 m*1422 m*74m*352m*vXOd3mjr54v"
     }, {
       "ruta": "Integral Carretera de les Aigües 2",
-      "fitxer": "integral_carretera_aigues_2.gpx"
+      "fitxer": "integral_carretera_aigues_2.gpx",
+      "desc": "BTT*Barcelona*integral_carretera_aigues_2.gpx*2020-09-13*25.8 Km*01:27:28 *01:40:40*725 m*476 m*64m*393m*"
     }, {
       "ruta": "Baixador de Vallvidrera-Sitges",
-      "fitxer": "baixador_vallvidrera-sitges.gpx"
+      "fitxer": "baixador_vallvidrera-sitges.gpx",
+      "desc": "BTT*Barcelona*granollers-baixador_vallvidrera-sitges.gpx*2021-01-31*53.2 Km*03:37:48*03:40:28*1585 m*1235 m*9m*464m*"
     }, {
       "ruta": "Volta per Collserola",
-      "fitxer": "volta_per_collserola_1.gpx"
+      "fitxer": "volta_per_collserola_1.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_1.gpx*2020-11-22*30.7 Km*02:08:12 *02:27:24*1033 m*798 m*53m*434m*"
     }, {
       "ruta": "Volta per Collserola 6",
-      "fitxer": "volta_per_collserola_6.gpx"
+      "fitxer": "volta_per_collserola_6.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_6.gpx*2021-06-19*65.1 Km*04:32:04*04:47:08*2015 m*1577 m*58m*433m*"
     }, {
       "ruta": "Volta per Collserola 5-Single Track",
-      "fitxer": "volta_per_collserola_5-single_track.gpx"
+      "fitxer": "volta_per_collserola_5-single_track.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_5-single_track.gpx*2021-05-24*28.4 Km*02:21:48*02:26:20*1059 m*789 m*77m*405m*"
+    }, {
+      "ruta": "Baixador de Vallvidrera-Papiol-La Floresta",
+      "fitxer": "baixador_vallvidrera-papiol-la_floresta.gpx",
+      "desc": "BTT*Barcelona*baixador_vallvidrera-papiol-la_floresta.gpx*2021-11-25*19.6 Km*01:34:48*01:36:40*894 m*660 m*72m*435m*"
     }, {
       "ruta": "Trialerada per Collserola",
-      "fitxer": "trialerada-per-collserola.gpx"
+      "fitxer": "trialerada-per-collserola.gpx",
+      "desc": "BTT*Barcelona*trialerada-per-collserola.gpx*2013-02-07*22.0 Km*01:28:09 *01:56:59*812 m*623 m*129m*469m*v1vjpPwxeY6*3 trialeres de baixada bastant practicables (menys alguns passos de la primera)"
     }, {
       "ruta": "Vallcarca-Tibidabo-PiXandri-Sol-i-aire",
-      "fitxer": "vallcarca-tibidabo-pixandri-sol-i-aire.gpx"
+      "fitxer": "vallcarca-tibidabo-pixandri-sol-i-aire.gpx",
+      "desc": "BTT*Barcelona*vallcarca-tibidabo-pixandri-sol-i-aire.gpx*2014-01-12*32.2 Km*00:00:20 *08:19:41*1148 m*989 m*115m*492m*vQvxVWKJw96"
     }, {
       "ruta": "Santa Coloma-El Masnou-Passeig Marítim",
-      "fitxer": "sta_coloma-masnou-pg_maritim.gpx"
+      "fitxer": "sta_coloma-masnou-pg_maritim.gpx",
+      "desc": "BTT*Barcelona*sta_coloma-masnou-pg_maritimgpx*2021-01-14*45.4 Km*03:02:40*03:26:00*1215 m*914 m*0m*429m*"
+    }, {
+      "ruta": "Baixador Vallvidrera-Turons Can Pasqual-St Feliu-Passeig Aigües",
+      "fitxer": "Baixador_Vallvidrera-Turons_Can_Pasqual-St_Feliu-Passeig_Aigues.gpx",
+      "desc": "BTT*Barcelona*Baixador_Vallvidrera-Turons_Can_Pasqual-St_Feliu-Passeig_Aigues.gpx*2020-12-27*28.7 Km*02:31:16*02:32:52*1510 m*1084 m*79m*463m*"
     }, {
       "ruta": "Integral Carretera de les Aigües 1",
-      "fitxer": "integral_carretera_aigues_1.gpx"
+      "fitxer": "integral_carretera_aigues_1.gpx",
+      "desc": "BTT*Barcelona*integral_carretera_aigues_1.gpx*2020-05-03*40.4 Km*23:44:58 *23:58:30*949 m*604 m*32m*434m*vRO7dx9QEK6"
+    }, {
+      "ruta": "Terrassa-Ullastrell-Martorell-Cornellà",
+      "fitxer": "terrassa-ullastrell-martorell-cornella.gpx",
+      "desc": "BTT*Barcelona*terrassa-ullastrell-martorell-cornella.gpx*2022-01-09*49.9 Km*02:56:52*02:57:40*831 m*548 m*8m*392m*"
+    }, {
+      "ruta": "Vallençana-Puig Castellar",
+      "fitxer": "vallencana-puig_castellar.gpx",
+      "desc": "senderisme*Barcelona*vallencana-puig_castellar.gpx*2022-01-23*5.4 Km*01:28:40*01:53:28*319 m*288 m*45m*278m*"
     }, {
       "ruta": "Integral Carretera de les Aigües 3",
-      "fitxer": "integral_carretera_aigues_3.gpx"
+      "fitxer": "integral_carretera_aigues_3.gpx",
+      "desc": "BTT*Barcelona*integral_carretera_aigues_3.gpx*2020-01-02*27.2 Km*01:46:17 *01:55:54*762 m*501 m*65m*392m*vPv4JZ38P36"
     }, {
       "ruta": "Baixador Vallvidrera-Delta Llobregat",
-      "fitxer": "baixador_vallvidrera_delta_llobregat.gpx"
+      "fitxer": "baixador_vallvidrera_delta_llobregat.gpx",
+      "desc": "BTT*Barcelona*baixador_vallvidrera_delta_llobregat.gpx*2020-09-17*41.0 Km*02:13:52 *03:46:00*631 m*329 m*-1m*348m*vevWNLyMPyq"
     }, {
       "ruta": "ToDo-Volta per Collserola 5",
-      "fitxer": "todo-volta_per_collserola_5.gpx"
+      "fitxer": "todo-volta_per_collserola_5.gpx",
+      "desc": "BTT*Barcelona*todo-volta_per_collserola_5.gpx*2021-05-09*32.2 Km*00:00:20*08:19:41*1153 m*989 m*115m*492m*"
+    }, {
+      "ruta": "Volta per Collserola 5 Floresta Sant Just",
+      "fitxer": "volta_per_collserola_5_floresta_st_just.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_5_floresta_st_just.gpx*2021-06-09*23.2 Km*01:47:36*01:57:44*729 m*532 m*63m*423m*"
     }, {
       "ruta": "La Floresta-Papiol-St Bartomeu-Olèrdola-Baixador Vallvidrera",
-      "fitxer": "la_floresta-papiol-st_bartomeu-olerdola-baixador_vallvidrera.gpx"
+      "fitxer": "la_floresta-papiol-st_bartomeu-olerdola-baixador_vallvidrera.gpx",
+      "desc": "BTT*Barcelona*la_floresta-papiol-st_bartomeu-olerdola-baixador_vallvidrera.gpx*2021-01-07*28.5 Km*02:10:36*02:12:48*1389 m*1023 m*72m*369m*"
     }, {
       "ruta": "Volta per Collserola 4 corriols",
-      "fitxer": "volta_per_collserola_4-corriols.gpx"
+      "fitxer": "volta_per_collserola_4-corriols.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_4-corriols.gpx*2021-03-26*33.9 Km*03:24:59*03:46:41*1344 m*1014 m*61 m*347 m*"
+    }, {
+      "ruta": "Volta per Collserola-3 cims",
+      "fitxer": "volta_per_collserola-3_cims.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola-3_cims.gpx*2022-02-10*60.5 Km*04:22:32*05:28:34*2742 m*1924 m*69m*448m*"
     }, {
       "ruta": "Poblat Ibèric Puig Castellar",
-      "fitxer": "poblat-iberic-puig-castellar.gpx"
+      "fitxer": "poblat-iberic-puig-castellar.gpx",
+      "desc": "BTT*Barcelona*poblat-iberic-puig-castellar.gpx*2011-01-11*7.9 Km*00:52:08 *00:52:08*339 m*304 m*44m*263m*v36ArVAXKZq"
     }, {
       "ruta": "Corriols de la Vall de Sant Just",
-      "fitxer": "corriolada_per_sant_just_desvern.gpx"
+      "fitxer": "corriolada_per_sant_just_desvern.gpx",
+      "desc": "BTT*Barcelona*corriolada_per_sant_just_desvern.gpx*2013-04-11*19.0 Km*01:14:04 *01:41:35*1059 m*600 m*164m*350m*vLqeN9EYdRv"
+    }, {
+      "ruta": "Volta per Collserola 7-BCN-St Cugat",
+      "fitxer": "volta_per_collserola_7-bcn-st_cugat.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_7-bcn-st_cugat.gpx*2021-12-23*29.7 Km*01:59:32*02:02:06*1036 m*764 m*75m*433m*"
     }, {
       "ruta": "Volta per Collserola 4-corriols v2",
-      "fitxer": "volta_per_collserola_4-corriols-v2.gpx"
+      "fitxer": "volta_per_collserola_4-corriols-v2.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_4-corriols-v2.gpx*2021-05-16*27.8 Km*02:22:36*02:58:24*1025 m*774 m*61m*348m*"
+    }, {
+      "ruta": "Volta per Collserola 6-Can Pascual-La Floresta-Les Planes",
+      "fitxer": "volta_per_collserola_6-can_pascual-floresta-planes.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_6-can_pascual-floresta-planes.gpx*2021-06-07*38.7 Km*02:49:27*02:51:23*1361 m*1049 m*63m*506m*"
     }, {
       "ruta": "Volta per Collserola 2",
-      "fitxer": "volta_per_collserola_2.gpx"
+      "fitxer": "volta_per_collserola_2.gpx",
+      "desc": "BTT*Barcelona*volta_per_collserola_2.gpx*2020-12-13*37.9 Km*02:22:00 *02:49:12*1146 m*817 m*92m*434m*"
     }, {
       "ruta": "Sitges-Barcelona",
-      "fitxer": "sitges-barcelona.gpx"
+      "fitxer": "sitges-barcelona.gpx",
+      "desc": "BTT*Barcelona*sitges-barcelona.gpx*2021-07-20*52.0 Km*03:39:04*03:39:44*1435 m*1167 m*6m*464m*"
     }, {
       "ruta": "Mercabarna-Delta del Llobregat",
-      "fitxer": "mercabarna-delta_llobregat.gpx"
+      "fitxer": "mercabarna-delta_llobregat.gpx",
+      "desc": "BTT*Barcelona*mercabarna-delta_llobregat.gpx*2020-12-30*19.3 Km*01:48:24*01:52:04*121 m*93 m*0m*10m*"
     }, {
-      "ruta": "Baixador_Vallvidrera-Turons_Can_Pasqual-St_Feliu-Passeig_Aigües",
-      "fitxer": "Baixador_Vallvidrera-Turons_Can_Pasqual-St_Feliu-Passeig_Aigües.gpx"
+      "ruta": "Gelida-Sant Vicenç dels Horts",
+      "fitxer": "gelida-sant_vicenc_dels_horts.gpx",
+      "desc": "BTT*Barcelona*gelida-sant_vicenc_dels_horts.gpx*2021-10-16*33.4 Km*02:33:04*02:55:40*1092 m*867 m*28m*499m"
     }, {
       "ruta": "Granollers-Sta Coloma de Gr",
-      "fitxer": "granollers-sta_coloma_gr.gpx"
+      "fitxer": "granollers-sta_coloma_gr.gpx",
+      "desc": "BTT*Barcelona*granollers-sta_coloma_gr.gpx*2021-02-16*46.0 Km*03:13:32*03:21:04*1326 m*1045 m*12m*485m*"
+    }, {
+      "ruta": "Gallecs-Palau-Solità-Polinyà-Santiga-riu Ripoll",
+      "fitxer": "gallecs-palau-solita-polinya-santiga-ripoll.gpx",
+      "desc": "BTT*Barcelona*gallecs-palau-solita-polinya-santiga-ripoll.gpx*2022-01-29*57.0 Km*03:19:04*03:30:16*978 m*751 m*18m*246m*"
     }, {
       "ruta": "Volta per Collserola-4 ermites",
-      "fitxer": "volta_collserola_4_ermites.gpx"
+      "fitxer": "volta_collserola_4_ermites.gpx",
+      "desc": "BTT*Barcelona*volta_collserola_4_ermites.gpx*2021-03-12*47.0 Km*03:21:52*03:29:36*1338 m*1027 m*25m*430m*"
     }]
-  }];
-  return rutes;
+  }, {
+    "zona": "Montseny",
+    "id": "montseny",
+    "rutes": [{
+      "ruta": "Collformic-Matagalls",
+      "fitxer": "collformic-matagalls.gpx",
+      "desc": "senderisme*Montseny*collformic-matagalls.gpx*2016-05-01*7.1 Km*01:12:50*01:49:54*570 m*544 m*1143m*1674m*"
+    }, {
+      "ruta": "Dòlmens de la Serra de l'Arca-Pla de la Calma-Aiguafreda",
+      "fitxer": "dolmens_serra_de_larca-pla_calma-aiguafreda.gpx",
+      "desc": "BTT*Montseny*dolmens_serra_de_larca-pla_calma-aiguafreda.gpx*2021-05-28*41.6 Km*00:40:15*01:30:27*2012 m*1431 m*397m*1211m*"
+    }, {
+      "ruta": "Viladrau-Matagalls-Agudes-Turó de l'Home-Santa Fe",
+      "fitxer": "viladrau-matagalls-agudes-turo_home-santa_fe.gpx",
+      "desc": "senderisme*Montseny*viladrau-matagalls-agudes-turo_home-santa_fe.gpx*2003-09-18*24.7 Km*00:00:00*02:41:20*2175 m*1835 m*726m*1683m*"
+    }, {
+      "ruta": "Montseny-Turó de l'Home",
+      "fitxer": "montseny-turo_home.gpx",
+      "desc": "senderisme*Montseny*montseny-turo_home.gpx*2004-01-23*5.4 Km*01:28:40*01:53:28*319 m*288 m*45m*278m*"
+    }, {
+      "ruta": "La Garriga-Vallcàrquera-Pla de la Calma-El Brull-Aiguafreda",
+      "fitxer": "la_garriga-vallcarquera-pla_de_la_calma-el_brull-aiguafreda.gpx",
+      "desc": "BTT*Montseny*la_garriga-vallcarquera-pla_de_la_calma-el_brull-aiguafreda.gpx*2022-01-14*55.2 Km*04:33:43*04:55:11*2422 m*1745 m*246m*1266m*"
+    }, {
+      "ruta": "Canovelles-Samalus-Roc Centelles-Cànoves-Marata",
+      "fitxer": "Canovelles-Samalus-Roc_Centelles-Canoves-Marata.gpx",
+      "desc": "BTT*Montseny*Canovelles-Samalus-Roc_Centelles-Canoves-Marata.gpx*2021-04-16*41.3 Km*03:31:41*03:37:09*1245 m*1029 m*151m*996*"
+    }, {
+      "ruta": "La Garriga-Vallforners-Pla de la Calma-La Móra-Aiguafreda",
+      "fitxer": "la_garriga-vallforners-pla_calma-la_mora-aiguafreda.gpx",
+      "desc": "BTT*Montseny*la_garriga-vallforners-pla_calma-la_mora-aiguafreda.gpx*2021-06-04*37.3 Km*02:57:28*02:58:12*1431 m*1193 m*257m*1293m*"
+    }, {
+      "ruta": "Aiguafreda-Fondrats-El Bellit-Tagamanent",
+      "fitxer": "aiguafreda-fondrats-bellit-tagamanent.gpx",
+      "desc": "senderisme*Montseny*aiguafreda-fondrats-bellit-tagamanent.gpx*2019-12-23*14.1 Km*00:00:57*03:30:46*887 m*707 m*408m*1100m*"
+    }, {
+      "ruta": "Sant Celoni-Turó de l'Home",
+      "fitxer": "sant_celoni-turo_de_lhome.gpx",
+      "desc": "BTT*Montseny*sant_celoni-turo_de_lhome.gpx*2021-06-12*51.1 Km*04:24:28*05:09:48*1942 m*1714 m*129m*1666m*748833287"
+    }, {
+      "ruta": "Granollers-Roc de Centelles",
+      "fitxer": "granollers-roc_de_centelles.gpx",
+      "desc": "BTT*Montseny*granollers-roc_de_centelles.gpx*2021-04-23*53.3 Km*04:02:34*04:04:42*1803 m*1426 m*133m*1017m*"
+    }, {
+      "ruta": "Aiguafreda-Collformic-Pla de la Calma-Tagamanent",
+      "fitxer": "Aiguafreda-Collformic-Pla_de_la_Calma-Tagamanent.gpx",
+      "desc": "BTT*Montseny*Aiguafreda-Collformic-Pla_de_la_Calma-Tagamanent.gpx*2021-04-30*36.0 Km*03:48:28*04:00:41*1496 m*1227 m*395m*1345m*"
+    }, {
+      "ruta": "Els Castellets-Les Agudes-Turó de l'Home",
+      "fitxer": "els_castellets-les_agudes-turo_de_lhome.gpx",
+      "desc": "senderisme*Montseny*els_castellets-les_agudes-turo_de_lhome.gpx*2021-12-29*13.8 Km*04:35:20*05:18:08*1068 m*956 m*1018m*1681m*"
+    }, {
+      "ruta": "Llinars-El Sui-Pla de la Calma-El Bellit-Aiguafreda",
+      "fitxer": "llinars-el_sui-pla_de_la_calma-el_bellit-aiguafreda.gpx",
+      "desc": "BTT*Montseny*llinars-el_sui-pla_de_la_calma-el_bellit-aiguafreda.gpx*2022-02-03*33.2 Km*03:21:56*03:57:16*1593 m*1351 m*184m*1302m*"
+    }, {
+      "ruta": "Aiguafreda-Vallcàrquera-Cànoves-La Garriga",
+      "fitxer": "aiguafreda-vallcarquera-canoves-la_garriga.gpx",
+      "desc": "BTT*Montseny*aiguafreda-vallcarquera-canoves-la_garriga.gpx*2022-01-21*43.2 Km*03:30:56*04:25:53*2094 m*1537 m*242m*898m*"
+    }]
+  }]; //Algorisme d'ordenació alfabètica
+
+  var rutes_nou = [];
+
+  for (var i = 0; i < rutes.length; i++) {
+    var obj = rutes[i];
+    var obj_rutes = obj.rutes;
+    obj_rutes.sort(function (a, b) {
+      //if(a.ruta < b.ruta) { return -1; }
+      //if(a.ruta > b.ruta) { return 1; }
+      //return 0;
+      //bona comparació amb accents
+      return a.ruta.localeCompare(b.ruta);
+    });
+    rutes_nou.push(obj);
+  }
+
+  rutes_nou.sort(function (a, b) {
+    //if(a.zona < b.zona) { return -1; }
+    //if(a.zona > b.zona) { return 1; }
+    //return 0;
+    //bona comparació amb accents
+    return a.zona.localeCompare(b.zona);
+  });
+  return rutes_nou;
 }
 
 var _default = llista_rutes;
@@ -89271,13 +89651,25 @@ var _proj = require("ol/proj");
 
 var _OSM = _interopRequireDefault(require("ol/source/OSM"));
 
+var _XYZ = _interopRequireDefault(require("ol/source/XYZ"));
+
 var _GPX = _interopRequireDefault(require("ol/format/GPX"));
 
 var _Vector = _interopRequireDefault(require("ol/source/Vector"));
 
 var _style2 = require("ol/style");
 
+var _Overlay = _interopRequireDefault(require("ol/Overlay"));
+
 var _control = require("ol/control");
+
+var _Feature = _interopRequireDefault(require("ol/Feature"));
+
+var _Point = _interopRequireDefault(require("ol/geom/Point"));
+
+var _Select = _interopRequireDefault(require("ol/interaction/Select"));
+
+var _condition = require("ol/events/condition");
 
 var _llista_modalitats = _interopRequireDefault(require("./llista_modalitats.js"));
 
@@ -89285,27 +89677,101 @@ var _llista_rutes = _interopRequireDefault(require("./llista_rutes.js"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+//necessari per topotresc, ICGC
+//per fer els markers:
+//exemple: https://openlayers.org/en/latest/examples/select-features.html?q=select+feature
 //importació
+var container = document.getElementById('tooltip');
+var content = document.getElementById('tooltip-content');
+var overlay = new _Overlay.default({
+  element: container,
+  autoPan: true,
+  autoPanAnimation: {
+    duration: 250
+  }
+});
 var body = document.getElementsByTagName("body")[0];
 body.addEventListener("load", init(), false);
 var map;
 var layers;
 var vector;
+/*
+// ja no cal, no és necessari
+var currZoom;
+var currCenter;
+*/
+
+var modalitats_actives = [];
+var todo_checked;
 
 function init() {
-  funcions_inicials();
+  //router
+  //https://www.section.io/engineering-education/how-to-build-a-simple-router-in-javascript/
+  var url = window.location; //console.log(url);
+
+  var ruta_hash = url.href.replaceAll(url.origin + '/#', ''); //console.log(ruta_hash);
+
+  carregar_rasters();
   carregar_modalitats();
-  carregar_rutes();
-  carregar_ruta_inicial();
+  carregar_modalitat_i_rutes(); //omple la matriu modalitats_actives
+  //if (ruta_hash != "") console.log(ruta_hash)
+
+  carregar_ruta_inicial(ruta_hash);
+  document.getElementById("url").addEventListener("click", function () {
+    copiar_url_link();
+  }, false);
+  document.getElementById("perfil").addEventListener("click", function () {
+    mostrar_perfil();
+  }, false);
+  document.getElementById("0_OSM").addEventListener("click", function () {
+    canviar_render("0_OSM");
+  }, false);
+  document.getElementById("1_ORTO").addEventListener("click", function () {
+    canviar_render("1_ORTO");
+  }, false);
+  document.getElementById("2_TOPOTRESC").addEventListener("click", function () {
+    canviar_render("2_TOPOTRESC");
+  }, false);
+  document.getElementById("3_ICGC").addEventListener("click", function () {
+    canviar_render("3_ICGC");
+  }, false);
+  document.getElementById("search-input").addEventListener("change", function () {
+    cercar_ruta(this.value);
+  }, false);
+  document.getElementById("search-input").addEventListener("click", function () {
+    netejar_cercar_ruta();
+  }, false); //cercar_ruta("pobla"); //provisional
 }
 
 ;
 
-function funcions_inicials() {
-  var cerca = document.getElementById("search-input");
-  cerca.addEventListener("change", function () {
-    cercar_rutes(this.value);
-  }, false);
+function carregar_rasters() {
+  var raster_OSM = new _layer.Tile({
+    source: new _OSM.default()
+  });
+  var raster_TOPOTRESC = new _layer.Tile({
+    source: new _XYZ.default({
+      url: 'https://api.topotresc.com/tiles/{z}/{x}/{y}',
+      attributions: 'Map data <a href="https://www.topotresc.com/" target="_blank">TopoTresk</a> by <a href="https://github.com/aresta/topotresc" target="_blank">aresta</a>'
+    })
+  }); //https://openicgc.github.io/
+  //ortofoto: https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/orto/GRID3857/{z}/{x}/{y}.jpeg
+  //topogràfic clàssic: https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/topo/GRID3857/{z}/{x}/{y}.jpeg
+  //hi ha més possibilitats
+
+  var raster_ORTO = new _layer.Tile({
+    source: new _XYZ.default({
+      url: 'https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/orto/GRID3857/{z}/{x}/{y}.jpeg',
+      attributions: 'Institut Cartogràfic i Geològic de Catalunya -ICGC'
+    })
+  });
+  var raster_ICGC = new _layer.Tile({
+    source: new _XYZ.default({
+      url: 'https://geoserveis.icgc.cat/icc_mapesmultibase/noutm/wmts/topo/GRID3857/{z}/{x}/{y}.jpeg',
+      attributions: 'Institut Cartogràfic i Geològic de Catalunya -ICGC'
+    })
+  });
+  layers = [raster_OSM, raster_ORTO, raster_TOPOTRESC, raster_ICGC];
 }
 
 function carregar_modalitats() {
@@ -89313,12 +89779,12 @@ function carregar_modalitats() {
   var modalitats_div = document.getElementById("modalitats");
   var str = "";
 
-  var _loop = function _loop(i) {
-    lbl = document.createElement("label");
-    br = document.createElement("BR");
+  for (var i = 0; i < modalitats_arr.length; i++) {
+    var lbl = document.createElement("label");
+    var br = document.createElement("BR");
     lbl.setAttribute("value", modalitats_arr[i].value);
     lbl.innerText = modalitats_arr[i].modalitat;
-    x = document.createElement("INPUT");
+    var x = document.createElement("INPUT");
     x.setAttribute("type", "checkbox");
     x.setAttribute("value", modalitats_arr[i].value);
     x.setAttribute("id", modalitats_arr[i].id);
@@ -89332,24 +89798,61 @@ function carregar_modalitats() {
     modalitats_div.appendChild(lbl);
     modalitats_div.appendChild(br);
     x.addEventListener("change", function () {
-      carregar_modalitat(modalitats_arr[i].value, this.checked);
+      carregar_modalitat_i_rutes();
     }, false);
-  };
-
-  for (var i = 0; i < modalitats_arr.length; i++) {
-    var lbl;
-    var br;
-    var x;
-
-    _loop(i);
   }
+
+  var hr = document.createElement("HR");
+  modalitats_div.appendChild(hr); //crear label ToDo
+
+  var lbl = document.createElement("label");
+  var br = document.createElement("BR");
+  lbl.setAttribute("value", "ToDo");
+  lbl.innerText = "ToDo";
+  var x = document.createElement("INPUT");
+  x.setAttribute("type", "checkbox");
+  x.setAttribute("value", "true");
+  x.setAttribute("id", "ToDo");
+  x.setAttribute("checked", true);
+  modalitats_div.appendChild(document.createTextNode("\xA0"));
+  modalitats_div.appendChild(document.createTextNode("\xA0"));
+  modalitats_div.appendChild(document.createTextNode("\xA0"));
+  modalitats_div.appendChild(x);
+  modalitats_div.appendChild(document.createTextNode("\xA0"));
+  modalitats_div.appendChild(document.createTextNode("\xA0"));
+  modalitats_div.appendChild(lbl);
+  modalitats_div.appendChild(br);
+  x.addEventListener("change", function () {
+    carregar_modalitat_i_rutes();
+  }, false);
+  var hr = document.createElement("HR");
+  modalitats_div.appendChild(hr);
+}
+
+function carregar_modalitat_i_rutes() {
+  //while (modalitats_actives.length) { modalitats_actives.pop(); } //també modalitats_actives = []
+  modalitats_actives = [];
+  var modalitats_div = document.getElementById("modalitats");
+  var inputs = modalitats_div.getElementsByTagName("INPUT");
+
+  for (var i = 0; i < inputs.length; i++) {
+    if (inputs[i].checked == true) modalitats_actives.push(inputs[i].value);
+  }
+
+  todo_checked = document.getElementById("ToDo").checked;
+  carregar_rutes();
 }
 
 function carregar_rutes() {
   var rutes_arr = (0, _llista_rutes.default)();
-  var rutes_ul = document.getElementById("rutes");
+  var rutes_ul = document.getElementById("rutes"); //console.log(modalitats_actives);
+  //primer, eliminem totes les rutes
 
-  var _loop2 = function _loop2(i) {
+  while (rutes_ul.firstChild) {
+    rutes_ul.removeChild(rutes_ul.lastChild);
+  }
+
+  var _loop = function _loop(i) {
     ele_li = document.createElement("LI");
     ele_li.setAttribute("class", "mb-1");
     ele_bt = document.createElement("BUTTON");
@@ -89363,22 +89866,28 @@ function carregar_rutes() {
     ele_div.setAttribute("class", "collapse");
     ele_div.setAttribute("id", rutes_arr[i].id + "-collapse");
 
-    var _loop3 = function _loop3(j) {
-      ele_ul = document.createElement("UL");
-      ele_ul.setAttribute("class", "list-unstyled fw-normal pb-1 small");
-      ele_li2 = document.createElement("LI"); //ele_li2.innerHTML = "<a href=\"./rutesgps/" + rutes_arr[i].rutes[j].fitxer + "\" class=\"d-inline-flex align-items-center rounded\">" + rutes_arr[i].rutes[j].ruta  + "</a>";
+    var _loop2 = function _loop2(j) {
+      //ToDo: quan està marcat es mostren els ToDo (si està desmarcat, es mostren només les rutes que he fet)
+      if (todo_checked || rutes_arr[i].rutes[j].ruta.indexOf("ToDo") == -1) {
+        //només he de mostrar les modalitats seleccionades
+        if (modalitats_actives.includes(rutes_arr[i].rutes[j].desc.split("*")[0].toLowerCase())) {
+          ele_ul = document.createElement("UL");
+          ele_ul.setAttribute("class", "list-unstyled fw-normal pb-1 small");
+          ele_li2 = document.createElement("LI"); //ele_li2.innerHTML = "<a href=\"./rutesgps/" + rutes_arr[i].rutes[j].fitxer + "\" class=\"d-inline-flex align-items-center rounded\">" + rutes_arr[i].rutes[j].ruta  + "</a>";
 
-      ele_li2.innerHTML = "<a href=\"#\" class=\"d-inline-flex align-items-center rounded\">" + rutes_arr[i].rutes[j].ruta + "</a>"; //ele_li2.addEventListener("click", function () { return confirm(rutes_arr[i].rutes[j].fitxer); }, false);
+          ele_li2.innerHTML = "<a href=\"#\" class=\"d-inline-flex align-items-center rounded\">" + rutes_arr[i].rutes[j].ruta + "</a>"; //ele_li2.addEventListener("click", function () { return confirm(rutes_arr[i].rutes[j].fitxer); }, false);
 
-      ele_li2.addEventListener("click", function () {
-        carregar_ruta(rutes_arr[i].rutes[j].ruta, rutes_arr[i].rutes[j].fitxer);
-      }, false);
-      ele_ul.appendChild(ele_li2);
-      ele_div.appendChild(ele_ul);
+          ele_li2.addEventListener("click", function () {
+            carregar_ruta(rutes_arr[i].rutes[j].ruta, rutes_arr[i].rutes[j].fitxer, rutes_arr[i].rutes[j].desc);
+          }, false);
+          ele_ul.appendChild(ele_li2);
+          ele_div.appendChild(ele_ul);
+        }
+      }
     };
 
     for (var j = 0; j < rutes_arr[i].rutes.length; j++) {
-      _loop3(j);
+      _loop2(j);
     }
 
     ele_li.appendChild(ele_div);
@@ -89392,35 +89901,87 @@ function carregar_rutes() {
     var ele_ul;
     var ele_li2;
 
-    _loop2(i);
+    _loop(i);
+  } //hem d'eliminar les zones que no tenen rutes
+
+
+  for (var _i = rutes_ul.childNodes.length - 1; _i >= 0; _i--) {
+    if (rutes_ul.childNodes[_i].getElementsByTagName("LI").length == 0) rutes_ul.removeChild(rutes_ul.childNodes[_i]);
   }
 }
 
-function carregar_modalitat(modalitat, valor) {
-  console.log(modalitat);
-  console.log(valor);
-}
-
-function carregar_ruta(ruta, fitxer) {
+function carregar_ruta(ruta, fitxer, desc) {
   //console.log(ruta);
-  var titol = document.getElementById("titol_ruta");
-  titol.innerHTML = ruta;
+  var titol_ruta = document.getElementById("titol_ruta");
+  var desc_ruta = document.getElementById("desc_ruta");
+  var desc_ruta_arr = desc.split('*');
+  var str_img = "<img src='./img/" + desc_ruta_arr[0].toLowerCase() + "_64.png'>&nbsp;"; //console.log(str_img)
+
+  titol_ruta.innerHTML = str_img + ruta;
+  var str = "";
+  str = changeDateFormat(desc_ruta_arr[3]);
+  str = str + " - " + desc_ruta_arr[4] + " - " + desc_ruta_arr[5] + " h" + " - " + desc_ruta_arr[8] + " - (" + desc_ruta_arr[9] + " " + "&rarr;" + " " + desc_ruta_arr[10] + ")";
+  desc_ruta.innerHTML = str;
+  var relieve = desc_ruta_arr[11];
+  var relieve_div = document.getElementById("relieve");
+
+  if (relieve != "") {
+    relieve_div.href = "https://www.relive.cc/view/" + relieve;
+    relieve_div.style.display = "block";
+  } else {
+    relieve_div.href = "";
+    relieve_div.style.display = "none";
+  }
+
+  var id_download = document.getElementById("download");
+  id_download.href = "./rutesgps/" + fitxer; //console.log(fitxer)
+
   repintar_mapa(fitxer);
 }
 
-function carregar_ruta_inicial() {
+function carregar_ruta_inicial(ruta_hash) {
+  //console.log(ruta_hash)
   var rutes_arr = (0, _llista_rutes.default)();
   var num1 = Math.floor(Math.random() * rutes_arr.length);
-  var num2 = Math.floor(Math.random() * rutes_arr[num1].rutes.length); //console.log(rutes_arr[num1].rutes[num2].ruta);
+  var num2 = Math.floor(Math.random() * rutes_arr[num1].rutes.length);
 
-  var titol = document.getElementById("titol_ruta");
-  titol.innerHTML = rutes_arr[num1].rutes[num2].ruta; //console.log(rutes_arr[num1].rutes[num2].fitxer);
+  loop1: for (var i = 0; i < rutes_arr.length; i++) {
+    for (var j = 0; j < rutes_arr[i].rutes.length; j++) {
+      if (ruta_hash == rutes_arr[i].rutes[j].fitxer.replace('.gpx', '')) {
+        num1 = i;
+        num2 = j;
+        break loop1;
+      }
+    }
+  }
 
+  var titol_ruta = document.getElementById("titol_ruta");
+  var desc_ruta = document.getElementById("desc_ruta");
+  var desc_ruta_arr = rutes_arr[num1].rutes[num2].desc.split('*');
+  var str_img = "<img src='./img/" + desc_ruta_arr[0].toLowerCase() + "_64.png'>&nbsp;";
+  titol_ruta.innerHTML = str_img + rutes_arr[num1].rutes[num2].ruta;
+  var str = "";
+  str = changeDateFormat(desc_ruta_arr[3]);
+  str = str + " - " + desc_ruta_arr[4] + " - " + desc_ruta_arr[5] + " h" + " - " + desc_ruta_arr[8] + " - (" + desc_ruta_arr[9] + " " + "&rarr;" + " " + desc_ruta_arr[10] + ")";
+  desc_ruta.innerHTML = str;
+  var relieve = desc_ruta_arr[11];
+  var relieve_div = document.getElementById("relieve");
+
+  if (relieve != "") {
+    relieve_div.href = "https://www.relive.cc/view/" + relieve;
+    relieve_div.style.display = "block";
+  } else {
+    relieve_div.href = "";
+    relieve_div.style.display = "none";
+  }
+
+  var id_download = document.getElementById("download");
+  id_download.href = "./rutesgps/" + rutes_arr[num1].rutes[num2].fitxer;
   pintar_mapa_inicial(rutes_arr[num1].rutes[num2].fitxer);
 }
 
 function pintar_mapa_inicial(fitxer) {
-  vector = new _layer.Vector({
+  var vector = new _layer.Vector({
     source: new _Vector.default({
       url: './rutesgps/' + fitxer,
       format: new _GPX.default()
@@ -89429,27 +89990,80 @@ function pintar_mapa_inicial(fitxer) {
       return _style[feature.getGeometry().getType()];
     }
   });
-  var raster = new _layer.Tile({
-    source: new _OSM.default()
-  });
-  layers = [raster];
   layers.push(vector);
   map = new _ol2.Map({
-    target: 'map',
-    layers: layers,
+    controls: (0, _control.defaults)().extend([new _control.FullScreen()]),
+    target: document.getElementById('map'),
+    overlays: [overlay],
+    layers: [layers[0], layers[4]],
+    //per defecte OSM (index 0)
     view: new _ol2.View({
       center: (0, _proj.fromLonLat)([1.9858, 41.9176]),
       //per tal de què funcioni el fit, previ s'ha de pintar la ruta
       zoom: 12
     })
-  });
+  }); // ja no cal, no és necessari
+  //currZoom = map.getView().getZoom();
+
   var padding = [50, 50, 50, 50];
   vector.getSource().on('addfeature', function () {
     map.getView().fit(vector.getSource().getExtent(), {
       size: map.getSize(),
       padding: padding
     });
+  }); // == INICI MARKER ===================
+
+  var iconStyleGreen = new _style2.Style({
+    image: new _style2.Icon({
+      anchor: [0.5, 35],
+      anchorXUnits: 'fraction',
+      anchorYUnits: 'pixels',
+      src: './img/green-marker.svg'
+    })
   });
+  var iconStyleRed = new _style2.Style({
+    image: new _style2.Icon({
+      anchor: [0.5, 35],
+      anchorXUnits: 'fraction',
+      anchorYUnits: 'pixels',
+      src: './img/red-marker.svg'
+    })
+  });
+  getXMLDocObject('./rutesgps/' + fitxer, function (xmlDoc) {
+    // extract the info from the xmlDoc object
+    var trk = xmlDoc.getElementsByTagName('trk')[0]; //console.log(trk)
+
+    var trkseg = trk.getElementsByTagName('trkseg');
+    var trkseg1 = trkseg[0];
+    var trkseg2 = trkseg[trkseg.length - 1];
+    var lat1 = trkseg1.children[0].getAttribute('lat');
+    var lon1 = trkseg1.children[0].getAttribute('lon');
+    var lat2 = trkseg2.children[trkseg2.children.length - 1].getAttribute('lat');
+    var lon2 = trkseg2.children[trkseg2.children.length - 1].getAttribute('lon'); //console.log(lat1);
+    //console.log(lon1);
+    //console.log(lat2);
+    //console.log(lon2);
+
+    var iconFeature1 = new _Feature.default({
+      geometry: new _Point.default((0, _proj.fromLonLat)([lon1, lat1])),
+      name: 'Inici'
+    });
+    var iconFeature2 = new _Feature.default({
+      geometry: new _Point.default((0, _proj.fromLonLat)([lon2, lat2])),
+      name: 'Final'
+    });
+    iconFeature1.setStyle(iconStyleGreen);
+    iconFeature2.setStyle(iconStyleRed);
+    var vector_marker = new _layer.Vector({
+      source: new _Vector.default({
+        features: [iconFeature1, iconFeature2]
+      })
+    });
+    layers.push(vector_marker);
+    map.addLayer(layers[5]); //afegir el marker
+  }); // == FI MARKER ===================
+
+  pintar_relleu(fitxer);
 }
 
 function repintar_mapa(fitxer) {
@@ -89463,19 +90077,117 @@ function repintar_mapa(fitxer) {
     }
   }); //treure l'anterior element (l'anterior ruta), i afegir el nou
 
-  map.removeLayer(layers[1]); //esborrar la ruta antiga
+  map.removeLayer(layers[5]); //esborrar els markers de la ruta antiga
+
+  layers.pop();
+  map.removeLayer(layers[4]); //esborrar la ruta antiga
 
   layers.pop();
   layers.push(vector);
-  map.addLayer(layers[1]); //afegir la ruta nova
+  map.addLayer(layers[4]); //afegir la ruta nova
 
-  var padding = [50, 50, 50, 50];
+  var padding2 = [50, 50, 50, 50];
   vector.getSource().on('addfeature', function () {
     map.getView().fit(vector.getSource().getExtent(), {
       size: map.getSize(),
-      padding: padding
+      padding: padding2
     });
+  }); // == INICI MARKER ===================
+
+  var iconStyleGreen = new _style2.Style({
+    image: new _style2.Icon({
+      anchor: [0.5, 35],
+      anchorXUnits: 'fraction',
+      anchorYUnits: 'pixels',
+      src: './img/green-marker.svg'
+    })
   });
+  var iconStyleRed = new _style2.Style({
+    image: new _style2.Icon({
+      anchor: [0.5, 35],
+      anchorXUnits: 'fraction',
+      anchorYUnits: 'pixels',
+      src: './img/red-marker.svg'
+    })
+  });
+  getXMLDocObject('./rutesgps/' + fitxer, function (xmlDoc) {
+    // extract the info from the xmlDoc object
+    var trk = xmlDoc.getElementsByTagName('trk')[0]; //console.log(trk)
+
+    var trkseg = trk.getElementsByTagName('trkseg');
+    var trkseg1 = trkseg[0];
+    var trkseg2 = trkseg[trkseg.length - 1];
+    var lat1 = trkseg1.children[0].getAttribute('lat');
+    var lon1 = trkseg1.children[0].getAttribute('lon');
+    var lat2 = trkseg2.children[trkseg2.children.length - 1].getAttribute('lat');
+    var lon2 = trkseg2.children[trkseg2.children.length - 1].getAttribute('lon'); //console.log(lat1);
+    //console.log(lon1);
+    //console.log(lat2);
+    //console.log(lon2);
+
+    var iconFeature1 = new _Feature.default({
+      geometry: new _Point.default((0, _proj.fromLonLat)([lon1, lat1])),
+      name: 'Inici'
+    });
+    var iconFeature2 = new _Feature.default({
+      geometry: new _Point.default((0, _proj.fromLonLat)([lon2, lat2])),
+      name: 'Final'
+    });
+    iconFeature1.setStyle(iconStyleGreen);
+    iconFeature2.setStyle(iconStyleRed);
+    var vector_marker = new _layer.Vector({
+      source: new _Vector.default({
+        features: [iconFeature1, iconFeature2]
+      })
+    });
+    layers.push(vector_marker);
+    map.addLayer(layers[5]); //afegir el marker
+  }); // == FI MARKER ===================
+
+  pintar_relleu(fitxer);
+}
+
+function repintar_mapa_render(id_render, fitxer) {
+  vector = new _layer.Vector({
+    source: new _Vector.default({
+      url: './rutesgps/' + fitxer,
+      format: new _GPX.default()
+    }),
+    style: function style(feature) {
+      return _style[feature.getGeometry().getType()];
+    }
+  }); //elimino les dues capes que hi ha (el render i la ruta)
+  //https://stackoverflow.com/questions/40862706/unable-to-remove-all-layers-from-a-map/41566755
+
+  map.getLayers().forEach(function (layer) {
+    map.removeLayer(layer);
+  }); //for some crazy reason I need to do it twice.
+
+  map.getLayers().forEach(function (layer) {
+    map.removeLayer(layer);
+  });
+  map.addLayer(layers[id_render]); //afegeixo el render
+
+  layers.pop(); //trec la ruta i afegeixo la nova ruta
+
+  layers.push(vector);
+  map.addLayer(layers[4]); //afegir la ruta nova
+
+  var padding2 = [50, 50, 50, 50];
+  /*
+  	//no cal aquest tros. Així aconsegueixo que quan canvio de render, em manté el zoom i el center
+  	vector.getSource().on('addfeature', function(){
+  		map.getView().fit(
+  			vector.getSource().getExtent(),
+  			{
+  				size: map.getSize(),
+  				padding: padding2,
+  			}
+  		);
+  	});
+  */
+
+  pintar_relleu(fitxer);
 }
 
 var _style = {
@@ -89505,10 +90217,268 @@ var _style = {
   })
 };
 
-function cercar_rutes(txt) {
-  console.log(txt);
+function changeDateFormat(inputDate) {
+  // expects Y-m-d
+  var splitDate = inputDate.split('-');
+
+  if (splitDate.count == 0) {
+    return null;
+  }
+
+  var year = splitDate[0];
+  var month = splitDate[1];
+  var day = splitDate[2];
+  return day + '/' + month + '/' + year;
 }
-},{"ol/ol.css":"node_modules/ol/ol.css","ol":"node_modules/ol/index.js","ol/layer":"node_modules/ol/layer.js","ol/proj":"node_modules/ol/proj.js","ol/source/OSM":"node_modules/ol/source/OSM.js","ol/format/GPX":"node_modules/ol/format/GPX.js","ol/source/Vector":"node_modules/ol/source/Vector.js","ol/style":"node_modules/ol/style.js","ol/control":"node_modules/ol/control.js","./llista_modalitats.js":"js_btt/llista_modalitats.js","./llista_rutes.js":"js_btt/llista_rutes.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+
+map.on("pointermove", function (e) {
+  var coordinate = e.coordinate;
+  var features = [];
+  map.forEachFeatureAtPixel(e.pixel, function (feature, layer) {
+    //if (feature.values_.name != undefined) {
+    if (feature.getGeometry().getType() == "Point") features.push(feature);
+
+    if (features.length > 0) {
+      var info = features[0].get('name');
+      container.style.visibility = "visible";
+      content.innerHTML = info;
+      map.getTarget().style.cursor = 'pointer';
+      overlay.setPosition(coordinate);
+      setTimeout(function () {
+        tancar_tooltip();
+      }, 500);
+    } else {
+      map.getTarget().style.cursor = '';
+    }
+  });
+});
+
+function tancar_tooltip() {
+  container.style.visibility = "hidden";
+}
+/*
+// ja no cal, no és necessari
+// capturar el canvi de zoom i de centre
+map.on('moveend', function(e) {
+	const view = map.getView();
+	let newZoom = view.getZoom();
+	if (currZoom != newZoom) {
+	//console.log('zoom end, new zoom: ' + newZoom);
+	currZoom = newZoom;
+	}
+	const center = view.getCenter();
+	currCenter = toLonLat(center);
+	//console.log(center);
+	//console.log(toLonLat(center));
+})
+*/
+
+
+function pintar_relleu(fitxer) {
+  //d3/exemple7.html
+  //------------------------1. PREPARATION------------------------//
+  //-----------------------------SVG------------------------------// 
+  var width = 370;
+  var height = 180;
+  var margin = 0;
+  var padding = 0;
+  var adj = 35; //primer elimino els SVG que hi puguin haver
+
+  d3.select("div#relleu").selectAll('*').remove(); // we are appending SVG first
+
+  var svg = d3.select("div#relleu").append("svg").attr("preserveAspectRatio", "xMinYMin meet").attr("viewBox", "-" + adj + " -" + adj + " " + (width + 3 * adj) + " " + (height + 3 * adj)).style("padding", padding).style("margin", margin).classed("svg-content", true); //console.log(fitxer);
+
+  fitxer = "./rutesgps/" + fitxer.replace(".gpx", ".json");
+  var dataset2 = d3.json(fitxer).then(function (data) {
+    //console.log(data);
+    //----------------------------SCALES----------------------------//
+    var xScale = d3.scaleLinear().rangeRound([0, width]);
+    var yScale = d3.scaleLinear().rangeRound([height, 0]);
+    xScale.domain(d3.extent(data, function (d) {
+      return d.num;
+    }));
+    yScale.domain([d3.min(data, function (c) {
+      return c.ele - 20;
+    }), d3.max(data, function (c) {
+      return c.ele + 20;
+    })]); //-----------------------------AXES-----------------------------//
+
+    var yaxis = d3.axisLeft() //.ticks((slices[0].values).length)
+    .ticks(10).scale(yScale);
+    var xaxis = d3.axisBottom() //.ticks(d3.timeDay.every(1))
+    //.tickFormat(d3.timeFormat('%b %d'))
+    .ticks(5).scale(xScale); //----------------------------LINES-----------------------------//
+
+    var line = d3.line().x(function (d) {
+      return xScale(d.num);
+    }).y(function (d) {
+      return yScale(d.ele);
+    }); //.curve(d3.curveMonotoneX); // apply smoothing to the line
+    //-------------------------2. DRAWING---------------------------//
+    //-----------------------------AXES-----------------------------//
+
+    svg.append("g").attr("class", "axis").attr("transform", "translate(0," + height + ")").call(xaxis).append("text") //.attr("transform", "rotate(-90)")
+    .attr("dy", "1.3em").attr("y", 2).attr("dx", "30em").style("text-anchor", "start").text("Km");
+    svg.append("g").attr("class", "axis").call(yaxis); //----------------------------LINES-----------------------------//
+
+    var lines = svg.selectAll("lines").data(data).enter().append("g");
+    lines.append("path").attr("class", "line-0").attr("d", function (d) {
+      return line(data);
+    });
+  });
+}
+
+function mostrar_perfil() {
+  if (document.getElementById("relleu").style.visibility == "hidden") {
+    document.getElementById("relleu").style.visibility = "visible";
+  } else {
+    document.getElementById("relleu").style.visibility = "hidden";
+  }
+}
+
+function copiar_url_link() {
+  var id_download = document.getElementById("download");
+  var url = id_download.href.replace('.gpx', '').replace('rutesgps/', '#'); //console.log(url);
+  //navigator.clipboard: en local funciona bé, però en el servidor no funciona (undefined) perquè sembla ser que necessita https. He trobat la funció copy() que també funciona.
+  //navigator.clipboard.writeText(url);
+
+  copy(url);
+} //https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript
+
+
+function copy(text) {
+  var input = document.createElement('textarea');
+  input.innerHTML = text;
+  document.body.appendChild(input);
+  input.select();
+  var result = document.execCommand('copy');
+  document.body.removeChild(input);
+  return result;
+}
+
+function canviar_render(tipus_render) {
+  //console.log(tipus_render);
+  //console.log(document.getElementById("OSM").getAttribute("class"))
+  document.getElementById("0_OSM").setAttribute("class", "btn btn-sm btn-bd-light mb-2 mb-md-0");
+  document.getElementById("1_ORTO").setAttribute("class", "btn btn-sm btn-bd-light mb-2 mb-md-0");
+  document.getElementById("2_TOPOTRESC").setAttribute("class", "btn btn-sm btn-bd-light mb-2 mb-md-0");
+  document.getElementById("3_ICGC").setAttribute("class", "btn btn-sm btn-bd-light mb-2 mb-md-0");
+  document.getElementById(tipus_render).setAttribute("class", "btn btn-sm btn-bd-primary mb-2 mb-md-0"); //let fitxer = document.getElementById("download").href.replace("./rutesgps/", "");
+
+  var cad = document.getElementById("download").href;
+  var fitxer = cad.substring(cad.indexOf("rutesgps/") + 9, cad.length);
+  var id_render = parseInt(tipus_render.substr(0, 1));
+  repintar_mapa_render(id_render, fitxer);
+} // Funcionalitat cercar ruta
+
+
+function netejar_cercar_ruta() {
+  var search_form = document.getElementById("search-form"); //he de mirar el search_form quants childs té
+
+  var nodeList = search_form.childNodes; //alert(nodeList.length);
+
+  if (nodeList.length > 3) {
+    //he d'eliminar l'últim node, que és els resultats de la última cerca
+    nodeList[nodeList.length - 1].remove();
+  }
+}
+
+function cercar_ruta(cad_cerca) {
+  cad_cerca = cad_cerca.toLowerCase().trim();
+  var search_form = document.getElementById("search-form"); //he de mirar el search_form quants childs té
+
+  var nodeList = search_form.childNodes; //alert(nodeList.length);
+
+  if (nodeList.length > 3) {
+    //he d'eliminar l'últim node, que és els resultats de la última cerca
+    nodeList[nodeList.length - 1].remove();
+  }
+
+  var div_cerca = document.createElement("div");
+  div_cerca.setAttribute("id", "div_cerca");
+  div_cerca.setAttribute("class", "resultats_cerca form-control");
+  var rutes_arr = (0, _llista_rutes.default)();
+  var comptador = 0;
+
+  var _loop3 = function _loop3(i) {
+    var _loop4 = function _loop4(j) {
+      //console.log(rutes_arr[i].rutes[j].ruta);
+      if (rutes_arr[i].rutes[j].ruta.toLowerCase().indexOf(cad_cerca) >= 0 || rutes_arr[i].rutes[j].desc.toLowerCase().indexOf(cad_cerca) >= 0 || rutes_arr[i].rutes[j].fitxer.toLowerCase().indexOf(cad_cerca) >= 0) {
+        comptador = comptador + 1; //console.log(rutes_arr[i].rutes[j].ruta);
+
+        var _a = document.createElement('a');
+
+        var _linkText = document.createTextNode(rutes_arr[i].rutes[j].ruta);
+
+        _a.appendChild(_linkText);
+
+        _a.title = rutes_arr[i].rutes[j].ruta;
+        _a.href = "#";
+
+        _a.setAttribute("class", "link");
+
+        _a.addEventListener("click", function () {
+          carregar_ruta(rutes_arr[i].rutes[j].ruta, rutes_arr[i].rutes[j].fitxer, rutes_arr[i].rutes[j].desc);
+          div_cerca.remove();
+        }, false);
+
+        div_cerca.appendChild(_a);
+        var hr = document.createElement("HR");
+        hr.setAttribute("class", "estret");
+        div_cerca.appendChild(hr);
+      }
+    };
+
+    //console.log(rutes_arr[i].zona);
+    for (var j = 0; j < rutes_arr[i].rutes.length; j++) {
+      _loop4(j);
+    }
+  };
+
+  for (var i = 0; i < rutes_arr.length; i++) {
+    _loop3(i);
+  }
+
+  if (comptador == 0) {
+    var a = document.createElement('a');
+    var linkText = document.createTextNode("0 resultats");
+    a.appendChild(linkText);
+    a.title = "0 resultats";
+    a.href = "#";
+    a.setAttribute("class", "link");
+    div_cerca.appendChild(a);
+    setTimeout(function () {
+      div_cerca.remove();
+    }, 1000);
+  }
+
+  search_form.appendChild(div_cerca);
+} ///== Parsejar fitxer XML (necessari per als markers d'inici i final) ==
+// get content and parse it to Document Object Model
+
+
+function getXMLDocObject(xmlFile, callback) {
+  var xhttp = new XMLHttpRequest();
+
+  xhttp.onreadystatechange = function () {
+    if (this.readyState === 4 && this.status === 200) {
+      var xmlContent = this.responseText;
+      var xmlDoc = parseXML(xmlContent);
+      callback(xmlDoc);
+    }
+  };
+
+  xhttp.open('GET', xmlFile, true);
+  xhttp.send();
+} // parse a text string into an XML DOM object
+
+
+function parseXML(xmlContent) {
+  var parser = new DOMParser();
+  var xmlDoc = parser.parseFromString(xmlContent, 'text/xml');
+  return xmlDoc;
+}
+},{"ol/ol.css":"node_modules/ol/ol.css","ol":"node_modules/ol/index.js","ol/layer":"node_modules/ol/layer.js","ol/proj":"node_modules/ol/proj.js","ol/source/OSM":"node_modules/ol/source/OSM.js","ol/source/XYZ":"node_modules/ol/source/XYZ.js","ol/format/GPX":"node_modules/ol/format/GPX.js","ol/source/Vector":"node_modules/ol/source/Vector.js","ol/style":"node_modules/ol/style.js","ol/Overlay":"node_modules/ol/Overlay.js","ol/control":"node_modules/ol/control.js","ol/Feature":"node_modules/ol/Feature.js","ol/geom/Point":"node_modules/ol/geom/Point.js","ol/interaction/Select":"node_modules/ol/interaction/Select.js","ol/events/condition":"node_modules/ol/events/condition.js","./llista_modalitats.js":"js_btt/llista_modalitats.js","./llista_rutes.js":"js_btt/llista_rutes.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -89536,7 +90506,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "39857" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "43279" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
